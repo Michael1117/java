@@ -2,48 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f024c7b8-4ce5-4218-932b-06016662cd75" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/11/src/com/hefeng/www/www/Creature.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/11/src/com/hefeng/www/www/ExtendsTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/11/src/com/hefeng/www/www/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/11/src/com/hefeng/www/www/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/11/web/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/12/src/com/heefeng4/www/AnimalTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/12/src/com/heefeng4/www/Man.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/12/src/com/heefeng4/www/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/12/src/com/heefeng4/www/PersonTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/12/src/com/heefeng4/www/Woman.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/12/src/com/hefeng/www/Kids.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/12/src/com/hefeng/www/KidsTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/12/src/com/hefeng/www/ManKind.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/12/src/com/hefeng/www/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/12/src/com/hefeng/www/PersonTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/12/src/com/hefeng/www/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/12/src/com/hefeng/www/SuperTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/12/src/com/hefeng2/www/InstanceTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/12/web/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/13/src/com/heefeng/www/AnimalTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/13/src/com/heefeng/www/Man.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/13/src/com/heefeng/www/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/13/src/com/heefeng/www/PersonTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/13/src/com/heefeng/www/Woman.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/13/src/com/heefeng2/www/ObjectTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/16/src/com/hefeng/www/exer/ThreadDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/16/src/com/hefeng/www/www/ThreadMethodTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/16/src/com/hefeng/www/www/ThreadTest1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/16/src/com/hefeng/www/www/WindowTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/16/src/com/hefeng/www/www/WindowTest1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/16/web/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/itcast/day01/src/com/hefeng/www/jdbcDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/itcast/day01/src/com/hefeng/www/jdbcDemo2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/itcast/day01/src/com/hefeng/www/jdbcDemo3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/itcast/day01/src/com/hefeng/www/jdbcDemo4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/www/hefeng/com/HelloWorld.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/java.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13/src/com/heefeng/exer2/JUnitTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13/src/com/heefeng/exer2/OrderTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13/src/com/heefeng/exer2/ToStringTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13/src/com/heefeng2/www/Customer.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/07/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/07/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/13/src/com/heefeng2/www/EqualsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/13/src/com/heefeng2/www/EqualsTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -69,14 +33,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="120">
               <caret line="5" column="18" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
-              <folding>
-                <element signature="e#122#123#0" expanded="true" />
-                <element signature="e#173#174#0" expanded="true" />
-                <element signature="e#203#204#0" expanded="true" />
-                <element signature="e#246#247#0" expanded="true" />
-                <element signature="e#276#277#0" expanded="true" />
-                <element signature="e#319#320#0" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -84,17 +40,72 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/13/src/com/heefeng/www/PersonTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="46" column="33" lean-forward="true" selection-start-line="46" selection-start-column="33" selection-end-line="46" selection-end-column="33" />
+            <state relative-caret-position="1104">
+              <caret line="46" column="33" selection-start-line="46" selection-start-column="33" selection-end-line="46" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/13/src/com/heefeng2/www/ObjectTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="168">
+              <caret line="7" column="5" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/13/src/com/heefeng2/www/EqualsTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="672">
+              <caret line="28" selection-start-line="28" selection-end-line="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/13/src/com/heefeng2/www/Customer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1224">
+              <caret line="61" selection-start-line="61" selection-end-line="61" />
+              <folding>
+                <element signature="e#183#184#0" expanded="true" />
+                <element signature="e#210#211#0" expanded="true" />
+                <element signature="e#250#251#0" expanded="true" />
+                <element signature="e#282#283#0" expanded="true" />
+                <element signature="e#309#310#0" expanded="true" />
+                <element signature="e#335#336#0" expanded="true" />
+                <element signature="e#370#371#0" expanded="true" />
+                <element signature="e#400#401#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/13/src/com/heefeng/exer2/OrderTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="720">
+              <caret line="38" column="31" selection-start-line="38" selection-start-column="31" selection-end-line="38" selection-end-column="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/13/src/com/heefeng/exer2/ToStringTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="48">
+              <caret line="2" column="25" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/13/src/com/heefeng2/www/ObjectTest.java">
+        <entry file="file://$PROJECT_DIR$/13/src/com/heefeng/exer2/JUnitTest.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="168">
-              <caret line="7" column="5" lean-forward="true" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
+              <caret line="7" selection-start-line="7" selection-end-line="7" />
             </state>
           </provider>
         </entry>
@@ -112,6 +123,9 @@
     <findStrings>
       <find>Thread</find>
     </findStrings>
+    <dirStrings>
+      <dir>D:\java\13\src</dir>
+    </dirStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -155,32 +169,16 @@
         <option value="$PROJECT_DIR$/13/src/com/heefeng/www/Woman.java" />
         <option value="$PROJECT_DIR$/13/src/com/heefeng/www/PersonTest.java" />
         <option value="$PROJECT_DIR$/13/src/com/heefeng2/www/ObjectTest.java" />
-      </list>
-    </option>
-  </component>
-  <component name="ProjectConfigurationFiles">
-    <option name="files">
-      <list>
-        <option value="$PROJECT_DIR$/12/12.iml" />
-        <option value="$PROJECT_DIR$/.idea/artifacts/12_war_exploded.xml" />
-        <option value="$PROJECT_DIR$/.idea/encodings.xml" />
-        <option value="$PROJECT_DIR$/16/16.iml" />
-        <option value="$PROJECT_DIR$/.idea/artifacts/16_war_exploded.xml" />
-        <option value="$PROJECT_DIR$/11/11.iml" />
-        <option value="$PROJECT_DIR$/.idea/artifacts/11_war_exploded.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/libs.xml" />
-        <option value="$PROJECT_DIR$/itcast/day01/day01.iml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/libs___2_.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/libs__2_.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/libs__3_.xml" />
-        <option value="$PROJECT_DIR$/13/13.iml" />
-        <option value="$PROJECT_DIR$/.idea/uiDesigner.xml" />
+        <option value="$PROJECT_DIR$/13/src/com/heefeng2/www/EqualsTest.java" />
+        <option value="$PROJECT_DIR$/13/src/com/heefeng2/www/Customer.java" />
+        <option value="$PROJECT_DIR$/13/src/com/heefeng/exer2/OrderTest.java" />
+        <option value="$PROJECT_DIR$/13/src/com/heefeng/exer2/JUnitTest.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-24" />
-    <option name="y" value="331" />
+    <option name="x" value="-25" />
+    <option name="y" value="330" />
     <option name="width" value="1940" />
     <option name="height" value="1050" />
   </component>
@@ -192,7 +190,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
@@ -200,32 +197,6 @@
             <path>
               <item name="java" type="b2602c69:ProjectViewProjectNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="13" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="13" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="13" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="13" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="www" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="java" type="b2602c69:ProjectViewProjectNode" />
@@ -251,10 +222,12 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/13/src" />
@@ -264,7 +237,7 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="restartRequiresConfirmation" value="false" />
-    <property name="settings.editor.selected.configurable" value="preferences.editor" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -287,13 +260,39 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ObjectTest">
+  <component name="RunManager" selected="Tomcat Server.Tomcat 8.5.40">
+    <configuration name="EqualsTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.heefeng2.www.EqualsTest" />
+      <module name="13" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.heefeng2.www.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ObjectTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.heefeng2.www.ObjectTest" />
       <module name="13" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.heefeng2.www.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OrderTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.heefeng.exer2.OrderTest" />
+      <module name="13" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.heefeng.exer2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -327,46 +326,106 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SuperTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.hefeng.www.SuperTest" />
-      <module name="12" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.hefeng.www.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+    <configuration name="Tomcat 8.5.40" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.40" ALTERNATIVE_JRE_ENABLED="false">
+      <deployment>
+        <artifact name="tomcat_study:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/tomcat_study_war_exploded" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings />
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
       <method v="2">
         <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="tomcat_study:war exploded" />
+        </option>
       </method>
     </configuration>
-    <configuration name="jdbcDemo4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.hefeng.www.jdbcDemo4" />
-      <module name="day01" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.hefeng.www.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+    <configuration name="tomServer" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.40" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment />
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_java" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="1393" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.jdbcDemo4" />
-      <item itemvalue="Application.SuperTest" />
       <item itemvalue="Application.PersonTest" />
       <item itemvalue="Application.PersonTest (1)" />
       <item itemvalue="Application.ObjectTest" />
+      <item itemvalue="Application.EqualsTest" />
+      <item itemvalue="Application.OrderTest" />
+      <item itemvalue="Tomcat Server.tomServer" />
+      <item itemvalue="Tomcat Server.Tomcat 8.5.40" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.OrderTest" />
+        <item itemvalue="Application.EqualsTest" />
         <item itemvalue="Application.ObjectTest" />
         <item itemvalue="Application.PersonTest (1)" />
         <item itemvalue="Application.PersonTest" />
-        <item itemvalue="Application.SuperTest" />
-        <item itemvalue="Application.jdbcDemo4" />
       </list>
     </recent_temporary>
   </component>
@@ -381,18 +440,19 @@
       <option name="presentableId" value="Default" />
       <updated>1555508453932</updated>
       <workItem from="1555508461891" duration="19835000" />
-      <workItem from="1555548752633" duration="22379000" />
+      <workItem from="1555548752633" duration="29075000" />
+      <workItem from="1555698224030" duration="628000" />
+      <workItem from="1555783155514" duration="354000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="42214000" />
+    <option name="totallyTimeSpent" value="49892000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
-    <editor active="true" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1689008" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17292225" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -400,9 +460,10 @@
       <window_info id="UI Designer" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info id="Web" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Application Servers" visible="true" weight="0.3286119" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.1855524" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.1855524" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.398017" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -410,7 +471,7 @@
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="10" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.3286119" />
       <window_info anchor="bottom" id="Problems" order="11" />
       <window_info anchor="bottom" id="Java Enterprise" order="12" />
       <window_info anchor="bottom" id="Database Changes" order="13" />
@@ -640,16 +701,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Jdbc01/src/com/heefeng/www/jdbcDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="27" column="34" lean-forward="true" selection-start-line="27" selection-start-column="8" selection-end-line="27" selection-end-column="34" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Jdbc01/src/com/heefeng/www/jdbcDemo.java" />
     <entry file="file://$PROJECT_DIR$/itcast/day01/src/com/hefeng/www/jdbcDemo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-8">
@@ -778,9 +830,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/13/src/www/PersonTest.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/13/src/www/PersonTest.java" />
     <entry file="file://$PROJECT_DIR$/13/src/com/heefeng/www/AnimalTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="261">
@@ -816,28 +866,65 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
           <caret line="5" column="18" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
-          <folding>
-            <element signature="e#122#123#0" expanded="true" />
-            <element signature="e#173#174#0" expanded="true" />
-            <element signature="e#203#204#0" expanded="true" />
-            <element signature="e#246#247#0" expanded="true" />
-            <element signature="e#276#277#0" expanded="true" />
-            <element signature="e#319#320#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/13/src/com/heefeng/www/PersonTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="46" column="33" lean-forward="true" selection-start-line="46" selection-start-column="33" selection-end-line="46" selection-end-column="33" />
+        <state relative-caret-position="1104">
+          <caret line="46" column="33" selection-start-line="46" selection-start-column="33" selection-end-line="46" selection-end-column="33" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/13/src/com/heefeng2/www/ObjectTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="168">
-          <caret line="7" column="5" lean-forward="true" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
+          <caret line="7" column="5" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/13/src/com/heefeng2/www/EqualsTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="672">
+          <caret line="28" selection-start-line="28" selection-end-line="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/13/src/com/heefeng2/www/Customer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1224">
+          <caret line="61" selection-start-line="61" selection-end-line="61" />
+          <folding>
+            <element signature="e#183#184#0" expanded="true" />
+            <element signature="e#210#211#0" expanded="true" />
+            <element signature="e#250#251#0" expanded="true" />
+            <element signature="e#282#283#0" expanded="true" />
+            <element signature="e#309#310#0" expanded="true" />
+            <element signature="e#335#336#0" expanded="true" />
+            <element signature="e#370#371#0" expanded="true" />
+            <element signature="e#400#401#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/13/src/com/heefeng/exer2/OrderTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="720">
+          <caret line="38" column="31" selection-start-line="38" selection-start-column="31" selection-end-line="38" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/13/src/com/heefeng/exer2/ToStringTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="2" column="25" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/13/src/com/heefeng/exer2/JUnitTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
         </state>
       </provider>
     </entry>
