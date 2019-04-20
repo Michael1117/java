@@ -6,12 +6,26 @@
     
     <!--  配置servlet -->
     <servlet>
-        <servlet-name>demo01</servlet-name>
+        <servlet-name>demo1</servlet-name>
         <servlet-class>com.heefeng.web.servlet.ServletDemo1</servlet-class>
     </servlet>
     
     <servlet-mapping>
-        <servlet-name>demo01</servlet-name>
+        <servlet-name>demo1</servlet-name>
         <url-pattern>/demo1</url-pattern>
+    </servlet-mapping>
+
+
+    <servlet>
+        <servlet-name>demo2</servlet-name>
+        <servlet-class>com.heefeng.web.servlet.ServletDemo2</servlet-class>
+
+        <!--  指定Servlet的创建时机(可以自己配置)-->
+        <load-on-startup>-5</load-on-startup>  <!-- 1.第一次被访问时创建(负数)  2. 在服务器启动时，创建(0,正数)-->
+    </servlet>
+
+    <servlet-mapping>
+        <servlet-name>demo2</servlet-name>
+        <url-pattern>/demo2</url-pattern>
     </servlet-mapping>
 </web-app>

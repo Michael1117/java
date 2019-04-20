@@ -538,3 +538,9 @@ java.util.logging.ConsoleHandler.encoding = GBK
 ## WEB_INF 中 web.xml 配置servlet
 
 http://localhost:8080/demo1  看控制台的输出  Hello Servlet
+
+## <!-- 1.第一次被访问时创建(负数)  2. 在服务器启动时，创建(0,正数)-->
+
+注意二者控制台的区别：
+1 . (0,正数)  init 提前执行
+2. 负数  init 服务器启动不执行
