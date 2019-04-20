@@ -519,3 +519,22 @@ SELECT * FROM student LIMIT 6, 3  ---第三页
 --公式： **开始的索引 = （当前的页码-1） * 每页显示的条数**
 
 （4 - 1）* 3
+
+## tomcat
+
+Tomcat-8.5.37启动日志输出乱码问题解决:
+
+1、D:\tomcat\conf\logging.properties
+tomcat conf下logging.properties的
+
+    java.util.logging.ConsoleHandler.encoding = UTF-8
+
+修改为：
+
+java.util.logging.ConsoleHandler.encoding = GBK
+
+与操作系统一致的字符集即可。
+
+## WEB_INF 中 web.xml 配置servlet
+
+http://localhost:8080/demo1  看控制台的输出  Hello Servlet
