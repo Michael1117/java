@@ -7,18 +7,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f024c7b8-4ce5-4218-932b-06016662cd75" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/day13_servlet_war_exploded.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/servlet_http_request_war_exploded.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day13_servlet/day13_servlet.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day13_servlet/src/com/heefeng/web/servlet/ServletDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/servlet&amp;http&amp;request/servlet&amp;http&amp;request.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/servlet&amp;http&amp;request/src/com/hefeng/web/servlet/ServletDemo1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/servlet&amp;http&amp;request/src/com/hefeng/web/servlet/ServletDemo2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/servlet&amp;http&amp;request/web/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tomcat_study/web/WEB-INF/bbb.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/servlet&amp;http&amp;request/src/com/hefeng/web/servlet/RequestDemo6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/servlet&amp;http&amp;request/src/com/hefeng/web/servlet/ServletDemo3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/servlet&amp;http&amp;request/src/com/hefeng/web/servlet/ServletDemo4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/servlet&amp;http&amp;request/web/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/servlet&amp;http&amp;request/web/regist2.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/servlet_http_request_war_exploded/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/servlet&amp;http&amp;request/web/WEB-INF/web.xml" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -39,27 +35,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/servlet&amp;http&amp;request/src/com/hefeng/web/servlet/ServletDemo1.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="344">
-              <caret line="26" column="5" lean-forward="true" selection-start-line="26" selection-start-column="5" selection-end-line="26" selection-end-column="5" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#363#364#0" expanded="true" />
-                <element signature="e#390#391#0" expanded="true" />
-                <element signature="e#591#592#0" expanded="true" />
-                <element signature="e#618#619#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/servlet&amp;http&amp;request/src/com/hefeng/web/servlet/ServletDemo2.java">
+        <entry file="file://$PROJECT_DIR$/servlet&amp;http&amp;request/src/com/hefeng/web/servlet/RequestDemo6.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="336">
-              <caret line="13" column="37" selection-start-line="13" selection-start-column="37" selection-end-line="13" selection-end-column="37" />
+            <state relative-caret-position="343">
+              <caret line="28" column="29" selection-start-line="28" selection-start-column="29" selection-end-line="28" selection-end-column="29" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -68,27 +48,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="jar://$PROJECT_DIR$/../tomcat/lib/servlet-api.jar!/javax/servlet/GenericServlet.class">
+        <entry file="file://$PROJECT_DIR$/servlet&amp;http&amp;request/web/regist2.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1224">
-              <caret line="54" column="37" lean-forward="true" selection-start-line="54" selection-start-column="37" selection-end-line="54" selection-end-column="37" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#523#524#0" expanded="true" />
-                <element signature="e#592#593#0" expanded="true" />
-                <element signature="e#650#651#0" expanded="true" />
-                <element signature="e#720#721#0" expanded="true" />
-                <element signature="e#767#768#0" expanded="true" />
-                <element signature="e#801#802#0" expanded="true" />
-                <element signature="e#850#851#0" expanded="true" />
-                <element signature="e#916#917#0" expanded="true" />
-                <element signature="e#954#955#0" expanded="true" />
-                <element signature="e#979#980#0" expanded="true" />
-                <element signature="e#1197#1198#0" expanded="true" />
-                <element signature="e#1277#1278#0" expanded="true" />
-                <element signature="e#1569#1570#0" expanded="true" />
-                <element signature="e#1620#1621#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="192">
+              <caret line="8" column="23" lean-forward="true" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
             </state>
           </provider>
         </entry>
@@ -98,8 +61,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="Class" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -117,12 +80,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/www/hefeng/com/HelloWorld.java" />
-        <option value="$PROJECT_DIR$/12/src/com/hefeng/www/ThreadTest.java" />
-        <option value="$PROJECT_DIR$/16/src/com/hefeng/exer/ThreadDemo.java" />
-        <option value="$PROJECT_DIR$/16/src/com/hefeng/www/ThreadMethodTest.java" />
-        <option value="$PROJECT_DIR$/16/src/com/hefeng/www/WindowTest.java" />
-        <option value="$PROJECT_DIR$/16/src/com/hefeng/www/ThreadTest1.java" />
         <option value="$PROJECT_DIR$/16/src/com/hefeng/www/WindowTest1.java" />
         <option value="$PROJECT_DIR$/11/src/com/hefeng/www/Student.java" />
         <option value="$PROJECT_DIR$/11/src/com/hefeng/www/Creature.java" />
@@ -168,6 +125,12 @@
         <option value="$PROJECT_DIR$/tomcat_study/web/WEB-INF/bbb.html" />
         <option value="$PROJECT_DIR$/servlet&amp;http&amp;request/src/com/hefeng/web/servlet/ServletDemo1.java" />
         <option value="$PROJECT_DIR$/servlet&amp;http&amp;request/src/com/hefeng/web/servlet/ServletDemo2.java" />
+        <option value="$PROJECT_DIR$/servlet&amp;http&amp;request/src/com/hefeng/web/servlet/ServletDemo3.java" />
+        <option value="$PROJECT_DIR$/servlet&amp;http&amp;request/web/login.html" />
+        <option value="$PROJECT_DIR$/servlet&amp;http&amp;request/src/com/hefeng/web/servlet/ServletDemo4.java" />
+        <option value="$PROJECT_DIR$/servlet&amp;http&amp;request/src/com/hefeng/web/servlet/ServletDemo6.java" />
+        <option value="$PROJECT_DIR$/servlet&amp;http&amp;request/web/regist2.html" />
+        <option value="$PROJECT_DIR$/servlet&amp;http&amp;request/src/com/hefeng/web/servlet/RequestDemo6.java" />
       </list>
     </option>
   </component>
@@ -217,6 +180,12 @@
               <item name="servlet&amp;http&amp;request" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="servlet" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="servlet&amp;http&amp;request" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="java" type="b2602c69:ProjectViewProjectNode" />
@@ -332,7 +301,9 @@
       </method>
     </configuration>
     <configuration name="Tomcat 8.5.40" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.40" ALTERNATIVE_JRE_ENABLED="false">
-      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8080/" />
+      <option name="UPDATE_ON_FRAME_DEACTIVATION" value="true" />
+      <option name="SHOW_DIALOG_ON_UPDATE" value="false" />
+      <option name="UPDATING_POLICY" value="update-resources" />
       <deployment>
         <artifact name="servlet&amp;http&amp;request:war exploded">
           <settings>
@@ -498,12 +469,12 @@
       <workItem from="1555508461891" duration="19835000" />
       <workItem from="1555548752633" duration="29075000" />
       <workItem from="1555698224030" duration="628000" />
-      <workItem from="1555783155514" duration="8404000" />
+      <workItem from="1555783155514" duration="11940000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="57942000" />
+    <option name="totallyTimeSpent" value="61478000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -518,25 +489,25 @@
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.056300268" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4978903" visible="true" weight="0.20844504" />
+      <window_info id="Structure" order="1" sideWeight="0.5021097" side_tool="true" weight="0.20844504" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
       <window_info id="Capture Tool" order="4" />
       <window_info id="UI Designer" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info id="Web" order="7" side_tool="true" />
+      <window_info id="Web" order="7" sideWeight="0.5021097" side_tool="true" weight="0.20844504" />
       <window_info anchor="bottom" id="Application Servers" weight="0.3286119" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.11331445" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49932975" visible="true" weight="0.1713881" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.398017" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3286119" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.3286119" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50067025" side_tool="true" weight="0.5141643" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.3286119" />
       <window_info anchor="bottom" id="Problems" order="11" weight="0.3286119" />
       <window_info anchor="bottom" id="Java Enterprise" order="12" weight="0.3286119" />
@@ -619,55 +590,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/11/src/Person.java" />
-    <entry file="file://$PROJECT_DIR$/11/src/com/hefeng/www/www/Creature.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="96">
-          <caret line="4" column="46" selection-start-line="4" selection-start-column="46" selection-end-line="4" selection-end-column="46" />
-          <folding>
-            <element signature="e#74#75#0" expanded="true" />
-            <element signature="e#127#128#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/11/src/com/hefeng/www/www/Person.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="48">
-          <caret line="2" column="36" selection-start-line="2" selection-start-column="36" selection-end-line="2" selection-end-column="36" />
-          <folding>
-            <element signature="e#229#230#0" expanded="true" />
-            <element signature="e#247#248#0" expanded="true" />
-            <element signature="e#304#305#0" expanded="true" />
-            <element signature="e#354#355#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/11/src/com/hefeng/www/www/Student.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="816">
-          <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="34" />
-          <folding>
-            <element signature="e#293#294#0" expanded="true" />
-            <element signature="e#342#343#0" expanded="true" />
-            <element signature="e#369#370#0" expanded="true" />
-            <element signature="e#420#421#0" expanded="true" />
-            <element signature="e#447#448#0" expanded="true" />
-            <element signature="e#470#471#0" expanded="true" />
-            <element signature="e#543#544#0" expanded="true" />
-            <element signature="e#579#580#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/11/src/com/hefeng/www/www/ExtendsTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="96">
-          <caret line="4" column="25" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/io/PrintStream.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="157">
@@ -1078,8 +1000,52 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/servlet&amp;http&amp;request/src/com/hefeng/web/servlet/ServletDemo2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="13" column="37" selection-start-line="13" selection-start-column="37" selection-end-line="13" selection-end-column="37" />
+        <state relative-caret-position="384">
+          <caret line="15" column="1" lean-forward="true" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/servlet&amp;http&amp;request/src/com/hefeng/web/servlet/ServletDemo3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="271">
+          <caret line="20" column="38" selection-start-line="20" selection-start-column="38" selection-end-line="20" selection-end-column="38" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/servlet&amp;http&amp;request/web/login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="223">
+          <caret line="10" column="7" lean-forward="true" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/servlet&amp;http&amp;request/src/com/hefeng/web/servlet/ServletDemo4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="271">
+          <caret line="14" column="17" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/servlet&amp;http&amp;request/web/regist2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="8" column="23" lean-forward="true" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/servlet&amp;http&amp;request/src/com/hefeng/web/servlet/RequestDemo6.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="343">
+          <caret line="28" column="29" selection-start-line="28" selection-start-column="29" selection-end-line="28" selection-end-column="29" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
