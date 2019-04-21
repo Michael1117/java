@@ -7,14 +7,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f024c7b8-4ce5-4218-932b-06016662cd75" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/servlet&amp;http&amp;request/src/com/hefeng/web/servlet/RequestDemo6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/servlet&amp;http&amp;request/src/com/hefeng/web/servlet/ServletDemo3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/servlet&amp;http&amp;request/src/com/hefeng/web/servlet/ServletDemo4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/servlet&amp;http&amp;request/web/login.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/servlet&amp;http&amp;request/web/regist2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/servlet&amp;http&amp;request/src/com/hefeng/web/servlet/RequestDemo7.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/servlet_http_request_war_exploded/WEB-INF/web.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/servlet&amp;http&amp;request/web/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/servlet_http_request_war_exploded/regist2.html" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/servlet_http_request_war_exploded/regist2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/servlet&amp;http&amp;request/src/com/hefeng/web/servlet/RequestDemo6.java" beforeDir="false" afterPath="$PROJECT_DIR$/servlet&amp;http&amp;request/src/com/hefeng/web/servlet/RequestDemo6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/servlet&amp;http&amp;request/web/regist2.html" beforeDir="false" afterPath="$PROJECT_DIR$/servlet&amp;http&amp;request/web/regist2.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -35,11 +32,23 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/servlet&amp;http&amp;request/src/com/hefeng/web/servlet/RequestDemo7.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="14" column="39" selection-start-line="14" selection-start-column="39" selection-end-line="14" selection-end-column="39" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/servlet&amp;http&amp;request/src/com/hefeng/web/servlet/RequestDemo6.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="343">
-              <caret line="28" column="29" selection-start-line="28" selection-start-column="29" selection-end-line="28" selection-end-column="29" />
+            <state relative-caret-position="262">
+              <caret line="64" column="31" lean-forward="true" selection-start-line="64" selection-start-column="8" selection-end-line="64" selection-end-column="31" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -50,8 +59,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/servlet&amp;http&amp;request/web/regist2.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="192">
-              <caret line="8" column="23" lean-forward="true" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
+            <state relative-caret-position="96">
+              <caret line="7" column="46" selection-start-line="7" selection-start-column="46" selection-end-line="7" selection-end-column="46" />
             </state>
           </provider>
         </entry>
@@ -61,8 +70,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="HTML File" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -80,7 +89,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/16/src/com/hefeng/www/WindowTest1.java" />
         <option value="$PROJECT_DIR$/11/src/com/hefeng/www/Student.java" />
         <option value="$PROJECT_DIR$/11/src/com/hefeng/www/Creature.java" />
         <option value="$PROJECT_DIR$/11/src/com/hefeng/www/Person.java" />
@@ -129,8 +137,9 @@
         <option value="$PROJECT_DIR$/servlet&amp;http&amp;request/web/login.html" />
         <option value="$PROJECT_DIR$/servlet&amp;http&amp;request/src/com/hefeng/web/servlet/ServletDemo4.java" />
         <option value="$PROJECT_DIR$/servlet&amp;http&amp;request/src/com/hefeng/web/servlet/ServletDemo6.java" />
-        <option value="$PROJECT_DIR$/servlet&amp;http&amp;request/web/regist2.html" />
         <option value="$PROJECT_DIR$/servlet&amp;http&amp;request/src/com/hefeng/web/servlet/RequestDemo6.java" />
+        <option value="$PROJECT_DIR$/servlet&amp;http&amp;request/src/com/hefeng/web/servlet/RequestDemo7.java" />
+        <option value="$PROJECT_DIR$/servlet&amp;http&amp;request/web/regist2.html" />
       </list>
     </option>
   </component>
@@ -302,8 +311,8 @@
     </configuration>
     <configuration name="Tomcat 8.5.40" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.40" ALTERNATIVE_JRE_ENABLED="false">
       <option name="UPDATE_ON_FRAME_DEACTIVATION" value="true" />
+      <option name="UPDATE_CLASSES_ON_FRAME_DEACTIVATION" value="true" />
       <option name="SHOW_DIALOG_ON_UPDATE" value="false" />
-      <option name="UPDATING_POLICY" value="update-resources" />
       <deployment>
         <artifact name="servlet&amp;http&amp;request:war exploded">
           <settings>
@@ -469,12 +478,12 @@
       <workItem from="1555508461891" duration="19835000" />
       <workItem from="1555548752633" duration="29075000" />
       <workItem from="1555698224030" duration="628000" />
-      <workItem from="1555783155514" duration="11940000" />
+      <workItem from="1555783155514" duration="14125000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="61478000" />
+    <option name="totallyTimeSpent" value="63663000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -487,7 +496,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4978903" visible="true" weight="0.20844504" />
       <window_info id="Structure" order="1" sideWeight="0.5021097" side_tool="true" weight="0.20844504" />
@@ -500,7 +508,7 @@
       <window_info anchor="bottom" id="Application Servers" weight="0.3286119" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49932975" visible="true" weight="0.1713881" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49932975" visible="true" weight="0.4674221" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.398017" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -590,13 +598,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/io/PrintStream.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="157">
-          <caret line="805" selection-start-line="805" selection-end-line="805" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/12/src/com/hefeng/www/Kids.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="183">
@@ -1035,17 +1036,27 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/servlet&amp;http&amp;request/src/com/hefeng/web/servlet/RequestDemo7.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="39" selection-start-line="14" selection-start-column="39" selection-end-line="14" selection-end-column="39" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/servlet&amp;http&amp;request/web/regist2.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="8" column="23" lean-forward="true" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
+        <state relative-caret-position="96">
+          <caret line="7" column="46" selection-start-line="7" selection-start-column="46" selection-end-line="7" selection-end-column="46" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/servlet&amp;http&amp;request/src/com/hefeng/web/servlet/RequestDemo6.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="343">
-          <caret line="28" column="29" selection-start-line="28" selection-start-column="29" selection-end-line="28" selection-end-column="29" />
+        <state relative-caret-position="262">
+          <caret line="64" column="31" lean-forward="true" selection-start-line="64" selection-start-column="8" selection-end-line="64" selection-end-column="31" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
