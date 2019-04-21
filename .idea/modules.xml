@@ -10,6 +10,7 @@
       <module fileurl="file://$PROJECT_DIR$/itcast/day01/day01.iml" filepath="$PROJECT_DIR$/itcast/day01/day01.iml" />
       <module fileurl="file://$PROJECT_DIR$/day13_servlet/day13_servlet.iml" filepath="$PROJECT_DIR$/day13_servlet/day13_servlet.iml" />
       <module fileurl="file://$PROJECT_DIR$/java.iml" filepath="$PROJECT_DIR$/java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/login_project/login_project.iml" filepath="$PROJECT_DIR$/login_project/login_project.iml" />
       <module fileurl="file://$PROJECT_DIR$/servlet&amp;http&amp;request/servlet&amp;http&amp;request.iml" filepath="$PROJECT_DIR$/servlet&amp;http&amp;request/servlet&amp;http&amp;request.iml" />
       <module fileurl="file://$PROJECT_DIR$/tomcat_study/tomcat_study.iml" filepath="$PROJECT_DIR$/tomcat_study/tomcat_study.iml" />
     </modules>

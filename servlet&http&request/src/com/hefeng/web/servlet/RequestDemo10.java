@@ -1,5 +1,6 @@
 package com.hefeng.web.servlet;
 
+import javax.servlet.ServletContext;
 import javax.servlet.ServletException;
 import javax.servlet.annotation.WebServlet;
 import javax.servlet.http.HttpServlet;
@@ -7,16 +8,14 @@ import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 import java.io.IOException;
 
-@WebServlet("/requestDemo9")
-public class RequestDemo9 extends HttpServlet {
+@WebServlet("/requestDemo10")
+public class RequestDemo10 extends HttpServlet {
     @Override
     protected void doPost(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
+        ServletContext servletContext = req.getServletContext();
 
-        // 获取数据
-        Object msg = req.getAttribute("msg");
+        System.out.println(servletContext);
 
-        System.out.println(msg);
-        System.out.println("demo9被访问了.....");
     }
 
     @Override

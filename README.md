@@ -546,3 +546,13 @@ http://localhost:8080/demo1  看控制台的输出  Hello Servlet
 2. 负数  init 服务器启动不执行
 
 ## C:\Users\michaelhee\.IntelliJIdea2019.1\system\tomcat\Tomcat_8_5_40_java_2
+
+## druid.properties 放在src目录下
+
+## jar包放在web/WEB-INFO中
+
+## ctrl+alt+t(选中try catch)  ctrl+i alt+insert 快捷键
+
+## alt + enter (选中)  抛异常
+
+## alt + enter (使用junit)
