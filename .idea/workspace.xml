@@ -7,25 +7,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f024c7b8-4ce5-4218-932b-06016662cd75" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/day15_response_war_exploded.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day15_response/day15_response.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day15_response/src/com/hefeng/web/servlet/ResponseDemo1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day15_response/src/com/hefeng/web/servlet/ResponseDemo2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day15_response/src/com/hefeng/web/servlet/ResponseDemo3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day15_response/src/com/hefeng/web/servlet/ResponseDemo4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/login_project/src/com/hefeng/test/BeanUtilsTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/login_project/src/com/hefeng/web/servlet/FailServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/login_project/src/com/hefeng/web/servlet/LoginServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/login_project/src/com/hefeng/web/servlet/SuccessServlet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day15_response/src/com/hefeng/web/servlet/CheckCodeServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day15_response/src/com/hefeng/web/servlet/ResponseDemo5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day15_response/src/com/hefeng/web/servletContext/ServletContext1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day15_response/src/com/hefeng/web/servletContext/ServletContext2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day15_response/src/com/hefeng/web/servletContext/ServletContext3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day15_response/src/com/hefeng/web/servletContext/ServletContext4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day15_response/web/register.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/login_project/login_project.iml" beforeDir="false" afterPath="$PROJECT_DIR$/login_project/login_project.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/login_project/src/com/hefeng/dao/UserDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/login_project/src/com/hefeng/dao/UserDao.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/login_project/src/com/hefeng/domain/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/login_project/src/com/hefeng/domain/User.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/login_project/src/com/hefeng/test/UserDaoTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/login_project/src/com/hefeng/test/UserDaoTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/login_project/web/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/login_project/web/login.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/login_project_war_exploded/WEB-INF/classes/druid.properties" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/login_project_war_exploded/WEB-INF/classes/druid.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/login_project_war_exploded/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/login_project_war_exploded/login.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -46,50 +35,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/day15_response/src/com/hefeng/web/servlet/ResponseDemo1.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="227">
-              <caret line="16" column="10" selection-start-line="16" selection-start-column="10" selection-end-line="16" selection-end-column="10" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/day15_response/src/com/hefeng/web/servlet/ResponseDemo2.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="275">
-              <caret line="15" lean-forward="true" selection-end-line="21" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/day15_response/src/com/hefeng/web/servlet/ResponseDemo3.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="174">
-              <caret line="19" column="5" lean-forward="true" selection-end-line="21" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/day15_response/src/com/hefeng/web/servlet/ResponseDemo4.java">
+        <entry file="file://$PROJECT_DIR$/day15_response/src/com/hefeng/web/servletContext/ServletContext3.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="231">
-              <caret line="17" column="10" selection-start-line="17" selection-start-column="10" selection-end-line="17" selection-end-column="10" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="288">
+              <caret line="17" column="41" selection-start-line="17" selection-start-column="41" selection-end-line="17" selection-end-column="41" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/day15_response/src/com/hefeng/web/servletContext/ServletContext4.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="219">
+              <caret line="19" column="30" selection-start-line="19" selection-start-column="30" selection-end-line="19" selection-end-column="30" />
             </state>
           </provider>
         </entry>
@@ -107,7 +66,11 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>Thread</find>
+      <find>heigth</find>
     </findStrings>
+    <replaceStrings>
+      <replace>height</replace>
+    </replaceStrings>
     <dirStrings>
       <dir>D:\java\13\src</dir>
     </dirStrings>
@@ -118,13 +81,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/12/src/com/heefeng4/www/Woman.java" />
-        <option value="$PROJECT_DIR$/12/src/com/heefeng4/www/AnimalTest.java" />
-        <option value="$PROJECT_DIR$/12/src/com/heefeng4/www/Person.java" />
-        <option value="$PROJECT_DIR$/12/src/com/heefeng4/www/Man.java" />
-        <option value="$PROJECT_DIR$/12/src/com/heefeng4/www/PersonTest.java" />
-        <option value="$PROJECT_DIR$/13/src/www/AnimalTest.java" />
-        <option value="$PROJECT_DIR$/13/src/com/heefeng/www/AnimalTest.java" />
         <option value="$PROJECT_DIR$/13/src/com/heefeng/www/Woman.java" />
         <option value="$PROJECT_DIR$/13/src/com/heefeng/www/PersonTest.java" />
         <option value="$PROJECT_DIR$/13/src/com/heefeng2/www/ObjectTest.java" />
@@ -169,6 +125,13 @@
         <option value="$PROJECT_DIR$/day15_response/src/com/hefeng/web/servlet/ReponseDemo3.java" />
         <option value="$PROJECT_DIR$/day15_response/src/com/hefeng/web/servlet/ResponseDemo3.java" />
         <option value="$PROJECT_DIR$/day15_response/src/com/hefeng/web/servlet/ResponseDemo4.java" />
+        <option value="$PROJECT_DIR$/day15_response/src/com/hefeng/web/servlet/ResponseDemo5.java" />
+        <option value="$PROJECT_DIR$/day15_response/src/com/hefeng/web/servlet/CheckCodeServlet.java" />
+        <option value="$PROJECT_DIR$/day15_response/web/register.html" />
+        <option value="$PROJECT_DIR$/day15_response/src/com/hefeng/web/servletContext/ServletContext1.java" />
+        <option value="$PROJECT_DIR$/day15_response/src/com/hefeng/web/servletContext/ServletContext2.java" />
+        <option value="$PROJECT_DIR$/day15_response/src/com/hefeng/web/servletContext/ServletContext3.java" />
+        <option value="$PROJECT_DIR$/day15_response/src/com/hefeng/web/servletContext/ServletContext4.java" />
       </list>
     </option>
   </component>
@@ -249,7 +212,7 @@
               <item name="com" type="462c0819:PsiDirectoryNode" />
               <item name="hefeng" type="462c0819:PsiDirectoryNode" />
               <item name="web" type="462c0819:PsiDirectoryNode" />
-              <item name="servlet" type="462c0819:PsiDirectoryNode" />
+              <item name="servletContext" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="java" type="b2602c69:ProjectViewProjectNode" />
@@ -288,6 +251,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.hefeng.web.servletContext" />
       <recent name="com.heefeng.www" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
@@ -555,7 +519,7 @@
       <workItem from="1555548752633" duration="29075000" />
       <workItem from="1555698224030" duration="628000" />
       <workItem from="1555783155514" duration="25176000" />
-      <workItem from="1555830630311" duration="8989000" />
+      <workItem from="1555830630311" duration="13774000" />
     </task>
     <servers />
   </component>
@@ -592,7 +556,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="83703000" />
+    <option name="totallyTimeSpent" value="88488000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -607,7 +571,7 @@
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4978903" visible="true" weight="0.02010724" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4978903" visible="true" weight="0.19571045" />
       <window_info id="Structure" order="1" sideWeight="0.5021097" side_tool="true" weight="0.20844504" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -617,8 +581,8 @@
       <window_info id="Web" order="7" sideWeight="0.5021097" side_tool="true" weight="0.20844504" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49932975" weight="0.04249292" />
-      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.398017" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49932975" visible="true" weight="0.24504249" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.398017" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3286119" />
@@ -709,65 +673,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/13/src/com/heefeng/www/PersonTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1104">
-          <caret line="46" column="33" selection-start-line="46" selection-start-column="33" selection-end-line="46" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/13/src/com/heefeng2/www/ObjectTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="7" column="5" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/13/src/com/heefeng2/www/EqualsTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="672">
-          <caret line="28" selection-start-line="28" selection-end-line="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/13/src/com/heefeng2/www/Customer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1224">
-          <caret line="61" selection-start-line="61" selection-end-line="61" />
-          <folding>
-            <element signature="e#183#184#0" expanded="true" />
-            <element signature="e#210#211#0" expanded="true" />
-            <element signature="e#250#251#0" expanded="true" />
-            <element signature="e#282#283#0" expanded="true" />
-            <element signature="e#309#310#0" expanded="true" />
-            <element signature="e#335#336#0" expanded="true" />
-            <element signature="e#370#371#0" expanded="true" />
-            <element signature="e#400#401#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/13/src/com/heefeng/exer2/OrderTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="720">
-          <caret line="38" column="31" selection-start-line="38" selection-start-column="31" selection-end-line="38" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/13/src/com/heefeng/exer2/ToStringTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="48">
-          <caret line="2" column="25" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/13/src/com/heefeng/exer2/JUnitTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/tomcat_study/web/hehe.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-8">
@@ -1186,13 +1091,74 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/day15_response/src/com/hefeng/web/servlet/ResponseDemo4.java">
+    <entry file="file://$PROJECT_DIR$/day15_response/src/com/hefeng/web/servlet/ResponseDemo5.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="231">
-          <caret line="17" column="10" selection-start-line="17" selection-start-column="10" selection-end-line="17" selection-end-column="10" />
+        <state relative-caret-position="512">
+          <caret line="24" column="42" selection-start-line="24" selection-start-column="42" selection-end-line="24" selection-end-column="42" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day15_response/src/com/hefeng/web/servlet/ResponseDemo4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="16" column="18" selection-end-line="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day15_response/src/com/hefeng/web/servlet/CheckCodeServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="419">
+          <caret line="60" column="39" selection-start-line="60" selection-start-column="39" selection-end-line="60" selection-end-column="39" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day15_response/web/register.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="15" column="36" lean-forward="true" selection-start-line="15" selection-start-column="36" selection-end-line="15" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day15_response/src/com/hefeng/web/servletContext/ServletContext1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="10" column="31" lean-forward="true" selection-start-line="10" selection-start-column="31" selection-end-line="10" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day15_response/src/com/hefeng/web/servletContext/ServletContext2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="528">
+          <caret line="21" column="35" selection-start-line="21" selection-start-column="35" selection-end-line="21" selection-end-column="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day15_response/src/com/hefeng/web/servletContext/ServletContext4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="219">
+          <caret line="19" column="30" selection-start-line="19" selection-start-column="30" selection-end-line="19" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day15_response/src/com/hefeng/web/servletContext/ServletContext3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="17" column="41" selection-start-line="17" selection-start-column="41" selection-end-line="17" selection-end-column="41" />
         </state>
       </provider>
     </entry>
