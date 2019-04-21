@@ -9,6 +9,7 @@ public class User {
     private int id;
     private String username;
     private String password;
+    private String gender;
 
     public int getId() {
         return id;
@@ -34,12 +35,21 @@ public class User {
         this.password = password;
     }
 
+    public String getHehe() {
+        return gender;
+    }
+
+    public void setHehe(String gender) {
+        this.gender = gender;
+    }
+
     @Override
     public String toString() {
         return "User{" +
                 "id=" + id +
                 ", username='" + username + '\'' +
                 ", password='" + password + '\'' +
+                ", gender='" + gender + '\'' +
                 '}';
     }
 }

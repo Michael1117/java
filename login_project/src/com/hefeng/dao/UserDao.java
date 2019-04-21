@@ -24,11 +24,13 @@ public class UserDao {
     public User login(User loginUser) {
         // 编写sql
         try {
+            //Class.forName("com.mysql.cj.jdbc.Driver");
             String sql = "SELECT * FROM user WHERE username=? and password = ?";
 
             // 调用query方法
             User user = template.queryForObject(sql,
                     new BeanPropertyRowMapper<User>(User.class), loginUser.getUsername(), loginUser.getPassword());
+
             return user;
         } catch (DataAccessException e) {
             e.printStackTrace();  // 记录日志
