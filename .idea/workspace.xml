@@ -2,34 +2,28 @@
 <project version="4">
   <component name="ArtifactsWorkspaceSettings">
     <artifacts-to-build>
-      <artifact name="day16_cookie&amp;session:war exploded" />
+      <artifact name="day17_el&amp;jstl:war exploded" />
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f024c7b8-4ce5-4218-932b-06016662cd75" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/day15_war_exploded.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/day16_cookie_session_war_exploded.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/day16_war_exploded.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day15/day15.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day15/src/com/hefeng/cookie/CookieDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day15_response/src/com/a.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day15_response/src/com/hefeng/web/download/DownloadServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day15_response/src/com/hefeng/web/servletContext/ServletContext5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day15_response/web/WEB-INFO/c.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day15_response/web/b.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day15_response/web/download.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day15_response/web/img/1.avi" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day15_response/web/img/2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day16/day16.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day16_cookie&amp;session/day16_cookie&amp;session.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day16_cookie&amp;session/src/com/hefeng/cookie/CookieDemo1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day16_cookie&amp;session/src/com/hefeng/cookie/CookieDemo2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day16_cookie&amp;session/src/com/hefeng/cookie/CookieDemo3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day16_cookie&amp;session/src/com/hefeng/cookie/CookieDemo4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day16_cookie&amp;session/src/com/hefeng/cookie/CookieDemo5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day16_cookie&amp;session/src/com/hefeng/cookie/CookieTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/day17_el_jstl_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day16_cookie&amp;session/src/com/hefeng/cookie/SessionDemo3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day16_cookie&amp;session/src/com/hefeng/servlet/CheckCodeServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day16_cookie&amp;session/src/com/hefeng/servlet/LoginServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day16_cookie&amp;session/web/login.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day16_cookie&amp;session/web/success.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day17_el&amp;jstl/day17_el&amp;jstl.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day17_el&amp;jstl/src/com/hefeng/domain/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day17_el&amp;jstl/web/500.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day17_el&amp;jstl/web/el/el1.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day17_el&amp;jstl/web/el/el2.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day17_el&amp;jstl/web/el/el3.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day17_el&amp;jstl/web/home.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day17_el&amp;jstl/web/top.jsp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -51,22 +45,28 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/day16_cookie&amp;session/src/com/hefeng/cookie/CookieTest.java">
+        <entry file="file://$PROJECT_DIR$/day17_el&amp;jstl/src/com/hefeng/domain/User.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="11" column="43" lean-forward="true" selection-start-line="11" selection-start-column="43" selection-end-line="11" selection-end-column="43" />
+            <state relative-caret-position="96">
+              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#514#515#0" expanded="true" />
+                <element signature="e#586#587#0" expanded="true" />
+                <element signature="e#639#640#0" expanded="true" />
+                <element signature="e#704#705#0" expanded="true" />
+                <element signature="e#768#769#0" expanded="true" />
+                <element signature="e#854#855#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/day16_cookie&amp;session/web/index.jsp">
+        <entry file="file://$PROJECT_DIR$/day17_el&amp;jstl/web/el/el3.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="168">
-              <caret line="16" column="12" selection-start-line="16" selection-start-column="12" selection-end-line="16" selection-end-column="12" />
+            <state relative-caret-position="292">
+              <caret line="51" column="14" lean-forward="true" selection-start-line="51" selection-start-column="14" selection-end-line="51" selection-end-column="14" />
             </state>
           </provider>
         </entry>
@@ -78,6 +78,7 @@
       <list>
         <option value="HTML File" />
         <option value="Class" />
+        <option value="Jsp File" />
       </list>
     </option>
   </component>
@@ -99,24 +100,9 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/tomcat_study/web/WEB-INF/web.xml" />
-        <option value="$PROJECT_DIR$/day13_servlet/src/com/heefeng/web/servlet/ServletDemo.java" />
-        <option value="$PROJECT_DIR$/tomcat_study/web/WEB-INF/bbb.html" />
-        <option value="$PROJECT_DIR$/servlet&amp;http&amp;request/src/com/hefeng/web/servlet/ServletDemo1.java" />
-        <option value="$PROJECT_DIR$/servlet&amp;http&amp;request/src/com/hefeng/web/servlet/ServletDemo2.java" />
-        <option value="$PROJECT_DIR$/servlet&amp;http&amp;request/src/com/hefeng/web/servlet/ServletDemo3.java" />
-        <option value="$PROJECT_DIR$/servlet&amp;http&amp;request/web/login.html" />
-        <option value="$PROJECT_DIR$/servlet&amp;http&amp;request/src/com/hefeng/web/servlet/ServletDemo4.java" />
-        <option value="$PROJECT_DIR$/servlet&amp;http&amp;request/src/com/hefeng/web/servlet/ServletDemo6.java" />
-        <option value="$PROJECT_DIR$/servlet&amp;http&amp;request/src/com/hefeng/web/servlet/RequestDemo6.java" />
-        <option value="$PROJECT_DIR$/servlet&amp;http&amp;request/src/com/hefeng/web/servlet/RequestDemo7.java" />
-        <option value="$PROJECT_DIR$/servlet&amp;http&amp;request/web/regist2.html" />
-        <option value="$PROJECT_DIR$/servlet&amp;http&amp;request/src/com/hefeng/web/servlet/RequestDemo8.java" />
-        <option value="$PROJECT_DIR$/servlet&amp;http&amp;request/src/com/hefeng/web/servlet/RequestDemo9.java" />
         <option value="$PROJECT_DIR$/servlet&amp;http&amp;request/src/com/hefeng/web/servlet/RequestDemo10.java" />
         <option value="$PROJECT_DIR$/login_project/src/com/hefeng/util/JDBCUtils.java" />
         <option value="$PROJECT_DIR$/login_project/src/druid.properties" />
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/login_project/src/com/hefeng/test/UserDaoTest.java" />
         <option value="$PROJECT_DIR$/login_project/src/com/hefeng/web/servlet/FailServlet.java" />
         <option value="$PROJECT_DIR$/login_project/web/login.html" />
@@ -150,6 +136,21 @@
         <option value="$PROJECT_DIR$/day15/src/com/hefeng/cookie/CookieDemo.java" />
         <option value="$PROJECT_DIR$/day16_cookie&amp;session/src/com/hefeng/cookie/CookieTest.java" />
         <option value="$PROJECT_DIR$/day16_cookie&amp;session/web/index.jsp" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/day16_cookie&amp;session/src/com/hefeng/cookie/SessionDemo3.java" />
+        <option value="$PROJECT_DIR$/day16_cookie&amp;session/src/com/hefeng/cookie/CheckCodeServlet.java" />
+        <option value="$PROJECT_DIR$/day16_cookie&amp;session/src/com/hefeng/servlet/CheckCodeServlet.java" />
+        <option value="$PROJECT_DIR$/day16_cookie&amp;session/web/success.jsp" />
+        <option value="$PROJECT_DIR$/day16_cookie&amp;session/web/login.jsp" />
+        <option value="$PROJECT_DIR$/day16_cookie&amp;session/src/com/hefeng/servlet/LoginServlet.java" />
+        <option value="$PROJECT_DIR$/day17_el&amp;jstl/web/500.jsp" />
+        <option value="$PROJECT_DIR$/day17_el&amp;jstl/web/top.jsp" />
+        <option value="$PROJECT_DIR$/day17_el&amp;jstl/web/home.jsp" />
+        <option value="$PROJECT_DIR$/day17_el&amp;jstl/web/index.jsp" />
+        <option value="$PROJECT_DIR$/day17_el&amp;jstl/web/el/el1.jsp" />
+        <option value="$PROJECT_DIR$/day17_el&amp;jstl/web/el/el2.jsp" />
+        <option value="$PROJECT_DIR$/day17_el&amp;jstl/src/com/hefeng/domain/User.java" />
+        <option value="$PROJECT_DIR$/day17_el&amp;jstl/web/el/el3.jsp" />
       </list>
     </option>
   </component>
@@ -178,8 +179,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -190,42 +191,12 @@
             <path>
               <item name="java" type="b2602c69:ProjectViewProjectNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="day16_cookie&amp;session" type="462c0819:PsiDirectoryNode" />
+              <item name="day17_el&amp;jstl" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="java" type="b2602c69:ProjectViewProjectNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="day16_cookie&amp;session" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="day16_cookie&amp;session" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="day16_cookie&amp;session" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="hefeng" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="day16_cookie&amp;session" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="hefeng" type="462c0819:PsiDirectoryNode" />
-              <item name="cookie" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="day16_cookie&amp;session" type="462c0819:PsiDirectoryNode" />
+              <item name="day17_el&amp;jstl" type="462c0819:PsiDirectoryNode" />
               <item name="web" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -248,7 +219,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/day15_response/web/img" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/day17_el&amp;jstl/web/WEB-INF/lib" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -264,11 +235,11 @@
       <recent name="com.heefeng.www" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\java\day17_el&amp;jstl\web\WEB-INF\lib" />
       <recent name="D:\java\day15_response\web\img" />
       <recent name="D:\java\login_project\web\WEB-INFO\lib" />
       <recent name="D:\java\login_project\web\WEB-INFO" />
       <recent name="D:\java\login_project\src" />
-      <recent name="D:\java\login_project" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -363,14 +334,14 @@
       <option name="UPDATE_ON_FRAME_DEACTIVATION" value="true" />
       <option name="UPDATE_CLASSES_ON_FRAME_DEACTIVATION" value="true" />
       <deployment>
-        <artifact name="day16_cookie&amp;session:war exploded">
+        <artifact name="day17_el&amp;jstl:war exploded">
           <settings>
-            <option name="CONTEXT_PATH" value="/day16" />
+            <option name="CONTEXT_PATH" value="/day17" />
           </settings>
         </artifact>
       </deployment>
       <server-settings>
-        <option name="BASE_DIRECTORY_NAME" value="Tomcat_8_5_40_java_8" />
+        <option name="BASE_DIRECTORY_NAME" value="Tomcat_8_5_40_java_7" />
       </server-settings>
       <predefined_log_file enabled="true" id="Tomcat" />
       <predefined_log_file enabled="true" id="Tomcat Catalina" />
@@ -378,7 +349,7 @@
       <predefined_log_file id="Tomcat Host Manager" />
       <predefined_log_file id="Tomcat Localhost Access" />
       <RunnerSettings RunnerId="Debug">
-        <option name="DEBUG_PORT" value="5558" />
+        <option name="DEBUG_PORT" value="14178" />
       </RunnerSettings>
       <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
         <option name="USE_ENV_VARIABLES" value="true" />
@@ -428,7 +399,7 @@
       <method v="2">
         <option name="Make" enabled="true" />
         <option name="BuildArtifacts" enabled="true">
-          <artifact name="day16_cookie&amp;session:war exploded" />
+          <artifact name="day17_el&amp;jstl:war exploded" />
         </option>
       </method>
     </configuration>
@@ -528,7 +499,8 @@
       <workItem from="1555548752633" duration="29075000" />
       <workItem from="1555698224030" duration="628000" />
       <workItem from="1555783155514" duration="25176000" />
-      <workItem from="1555830630311" duration="26975000" />
+      <workItem from="1555830630311" duration="32517000" />
+      <workItem from="1555925186668" duration="6336000" />
     </task>
     <servers />
   </component>
@@ -565,7 +537,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="101689000" />
+    <option name="totallyTimeSpent" value="113567000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -578,18 +550,19 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.85882354" visible="true" weight="0.17426273" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.91752577" visible="true" weight="0.14209116" />
       <window_info id="Structure" order="1" sideWeight="0.5021097" side_tool="true" weight="0.20844504" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
       <window_info id="Capture Tool" order="4" />
       <window_info id="UI Designer" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info id="Web" order="7" sideWeight="0.14117648" side_tool="true" visible="true" weight="0.17426273" />
+      <window_info id="Web" order="7" sideWeight="0.082474224" side_tool="true" visible="true" weight="0.14209116" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.04249292" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49932975" visible="true" weight="0.5184136" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49932975" visible="true" weight="0.1756374" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.398017" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -681,120 +654,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/servlet&amp;http&amp;request/src/com/hefeng/web/servlet/ServletDemo4.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="271">
-          <caret line="14" column="17" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/servlet&amp;http&amp;request/web/regist2.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="96">
-          <caret line="7" column="46" selection-start-line="7" selection-start-column="46" selection-end-line="7" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/servlet&amp;http&amp;request/src/com/hefeng/web/servlet/RequestDemo6.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="64" column="31" lean-forward="true" selection-start-line="64" selection-start-column="8" selection-end-line="64" selection-end-column="31" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/servlet&amp;http&amp;request/src/com/hefeng/web/servlet/RequestDemo7.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="214">
-          <caret line="13" column="19" lean-forward="true" selection-end-line="26" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/servlet&amp;http&amp;request/src/com/hefeng/web/servlet/RequestDemo8.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="199">
-          <caret line="20" column="38" selection-start-line="20" selection-start-column="38" selection-end-line="20" selection-end-column="38" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/servlet&amp;http&amp;request/src/com/hefeng/web/servlet/RequestDemo9.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="367">
-          <caret line="21" column="11" selection-end-line="26" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/servlet&amp;http&amp;request/src/com/hefeng/web/servlet/RequestDemo10.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="16" column="41" selection-start-line="16" selection-start-column="41" selection-end-line="16" selection-end-column="41" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/itcast/day01/src/com/hefeng/www/jdbcDemo2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-240">
-          <caret line="2" column="7" lean-forward="true" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/login_project/src/com/hefeng/test/UserDaoTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-19">
-          <caret line="9" column="9" lean-forward="true" selection-start-line="9" selection-start-column="9" selection-end-line="9" selection-end-column="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/login_project/login_project.iml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-216" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/login_project/web/index.jsp">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/login_project/src/com/hefeng/util/JDBCUtils.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="551">
-          <caret line="43" column="44" selection-start-line="43" selection-start-column="44" selection-end-line="43" selection-end-column="44" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#942#943#0" expanded="true" />
-            <element signature="e#968#969#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/itcast/day01/src/com/hefeng/www/jdbcDemo3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="96">
-          <caret line="18" column="54" selection-start-line="18" selection-start-column="12" selection-end-line="18" selection-end-column="54" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/login_project/src/druid.properties">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="96">
@@ -836,16 +695,6 @@
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="135">
-            <caret line="552" selection-start-line="551" selection-end-line="552" />
-          </first_editor>
-          <second_editor />
         </state>
       </provider>
     </entry>
@@ -894,13 +743,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/day15_response/src/ResponseDemo1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/day15_response/src/ResponseDemo1.java" />
     <entry file="file://$PROJECT_DIR$/day15_response/web/index.jsp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="168">
@@ -918,13 +761,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/day15_response/src/com/hefeng/web/servlet/ResponseDemo3">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="214">
-          <caret line="21" selection-start-line="21" selection-end-line="21" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/day15_response/src/com/hefeng/web/servlet/ResponseDemo3" />
     <entry file="file://$PROJECT_DIR$/day15_response/src/com/hefeng/web/servlet/ResponseDemo2.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="275">
@@ -1042,16 +879,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/day16_cookie&amp;session/src/com/hefeng/CookieDemo1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="173">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/day16_cookie&amp;session/src/com/hefeng/CookieDemo1.java" />
     <entry file="file://$PROJECT_DIR$/day15_response/src/com/hefeng/web/download/DownloadServlet.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="144">
@@ -1122,9 +950,29 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="155">
+            <caret line="559" column="5" selection-start-line="559" selection-start-column="5" selection-end-line="559" selection-end-column="5" />
+            <folding>
+              <element signature="imports" expanded="true" />
+            </folding>
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day16_cookie&amp;session/web/index.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="16" column="12" selection-start-line="16" selection-start-column="12" selection-end-line="16" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/day16_cookie&amp;session/src/com/hefeng/cookie/CookieTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
+        <state relative-caret-position="242">
           <caret line="11" column="43" lean-forward="true" selection-start-line="11" selection-start-column="43" selection-end-line="11" selection-end-column="43" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -1132,10 +980,106 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/day16_cookie&amp;session/web/index.jsp">
+    <entry file="file://$PROJECT_DIR$/day16_cookie&amp;session/web/login.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="16" column="12" selection-start-line="16" selection-start-column="12" selection-end-line="16" selection-end-column="12" />
+        <state relative-caret-position="1296">
+          <caret line="54" column="7" selection-start-line="54" selection-start-column="7" selection-end-line="54" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day16_cookie&amp;session/web/success.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day16_cookie&amp;session/src/com/hefeng/servlet/CheckCodeServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1056">
+          <caret line="53" column="76" selection-start-line="53" selection-start-column="76" selection-end-line="53" selection-end-column="76" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day16_cookie&amp;session/src/com/hefeng/servlet/LoginServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="552">
+          <caret line="27" column="41" selection-start-line="27" selection-start-column="41" selection-end-line="27" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day16_cookie&amp;session/src/com/hefeng/cookie/SessionDemo3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="6" column="46" selection-start-line="6" selection-start-column="46" selection-end-line="6" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day17_el&amp;jstl/web/top.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="24">
+          <caret line="1" column="14" selection-start-line="1" selection-start-column="14" selection-end-line="1" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day17_el&amp;jstl/web/500.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="10" column="25" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day17_el&amp;jstl/web/index.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="2" column="116" lean-forward="true" selection-start-line="2" selection-start-column="116" selection-end-line="2" selection-end-column="116" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day17_el&amp;jstl/web/home.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="12" column="36" lean-forward="true" selection-start-line="12" selection-start-column="36" selection-end-line="12" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day17_el&amp;jstl/web/el/el1.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="8" column="5" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day17_el&amp;jstl/web/el/el2.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="5" column="6" lean-forward="true" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day17_el&amp;jstl/src/com/hefeng/domain/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#514#515#0" expanded="true" />
+            <element signature="e#586#587#0" expanded="true" />
+            <element signature="e#639#640#0" expanded="true" />
+            <element signature="e#704#705#0" expanded="true" />
+            <element signature="e#768#769#0" expanded="true" />
+            <element signature="e#854#855#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day17_el&amp;jstl/web/el/el3.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="292">
+          <caret line="51" column="14" lean-forward="true" selection-start-line="51" selection-start-column="14" selection-end-line="51" selection-end-column="14" />
         </state>
       </provider>
     </entry>
