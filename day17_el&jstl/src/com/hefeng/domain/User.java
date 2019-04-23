@@ -9,6 +9,17 @@ public class User {
     private int age;
     private Date birthday;
 
+
+
+    public User(String name, int age, Date birthday) {
+        this.name = name;
+        this.age = age;
+        this.birthday = birthday;
+    }
+
+    public User() {
+    }
+
     public String getBirStr() {
         if(birthday != null) {
             SimpleDateFormat sdf = new SimpleDateFormat("yyyy-MM-dd HH:mm:ss");
