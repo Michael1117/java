@@ -6,51 +6,7 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f024c7b8-4ce5-4218-932b-06016662cd75" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/day18_case_war_exploded.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/sggday14_war_exploded.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day17_el&amp;jstl/web/el/el4.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day17_el&amp;jstl/web/jstl/jstl1.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day17_el&amp;jstl/web/jstl/jstl2.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day17_el&amp;jstl/web/jstl/jstl3.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day17_el&amp;jstl/web/jstl/jstl_test.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day18_case/day18_case.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day18_case/src/druid.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day18_case/web/add.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day18_case/web/add.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day18_case/web/css/bootstrap-theme.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day18_case/web/css/bootstrap-theme.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day18_case/web/css/bootstrap.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day18_case/web/css/bootstrap.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day18_case/web/fonts/glyphicons-halflings-regular.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day18_case/web/fonts/glyphicons-halflings-regular.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day18_case/web/fonts/glyphicons-halflings-regular.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day18_case/web/fonts/glyphicons-halflings-regular.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day18_case/web/fonts/glyphicons-halflings-regular.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day18_case/web/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day18_case/web/index.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day18_case/web/js/bootstrap.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day18_case/web/js/bootstrap.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day18_case/web/js/jquery-2.1.0.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day18_case/web/list.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day18_case/web/list.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day18_case/web/login.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day18_case/web/login.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day18_case/web/update.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day18_case/web/update.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sggday14/sggday14.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sggday14/src/com/hefeng/www/SingleTonTest1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sggday14/src/com/hefeng/www/StaticTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sggday14/src/com/hefeng/www/singleTonTest2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sggday14/web/WEB-INF/web.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day16_cookie&amp;session/web/login.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/day16_cookie&amp;session/web/login.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day17_el&amp;jstl/src/com/hefeng/domain/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/day17_el&amp;jstl/src/com/hefeng/domain/User.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day17_el&amp;jstl/web/el/el1.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/day17_el&amp;jstl/web/el/el1.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/day17_el_jstl_war_exploded/el/el1.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/day17_el_jstl_war_exploded/el/el1.jsp" afterDir="false" />
-    </list>
+    <list default="true" id="f024c7b8-4ce5-4218-932b-06016662cd75" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -191,7 +147,7 @@
     <option name="FILTER_DEBUG" value="true" />
     <option name="CUSTOM_FILTER" />
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-25" />
     <option name="y" value="330" />
     <option name="width" value="1940" />
@@ -567,7 +523,7 @@
       <workItem from="1555698224030" duration="628000" />
       <workItem from="1555783155514" duration="25176000" />
       <workItem from="1555830630311" duration="32517000" />
-      <workItem from="1555925186668" duration="23052000" />
+      <workItem from="1555925186668" duration="23650000" />
     </task>
     <servers />
   </component>
@@ -604,7 +560,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="130283000" />
+    <option name="totallyTimeSpent" value="130881000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -616,7 +572,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.92899406" visible="true" weight="0.14477211" />
