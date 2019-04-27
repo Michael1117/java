@@ -6,7 +6,45 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f024c7b8-4ce5-4218-932b-06016662cd75" name="Default Changelist" comment="" />
+    <list default="true" id="f024c7b8-4ce5-4218-932b-06016662cd75" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/02_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/03_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/day8_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02/02.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02/src/BinaryTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02/src/StringTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02/src/StringTest1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02/src/VariableTest1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02/src/VariableTest2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02/src/VariableTest3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02/src/VariableTest4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02/src/test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02/web/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03/03.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03/src/AriExer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03/src/AriTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03/src/variableTest1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03/web/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day8/day8.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day8/src/com/hefeng/exer/CircleTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day8/src/com/hefeng/exer/Exer3Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day8/src/com/hefeng/exer/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day8/src/com/hefeng/exer/PersonTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day8/src/com/hefeng/www/CustomerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day8/src/com/hefeng/www/PersonTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day8/src/com/hefeng/www/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day8/src/com/hefeng/www/UserTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day8/web/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java核心技术.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第三章.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day15/day15.iml" beforeDir="false" afterPath="$PROJECT_DIR$/day15/day15.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day15/src/com/hefeng/cookie/CookieDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day15/web/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/day15/web/index.jsp" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -27,32 +65,61 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/sggday14/src/com/hefeng/www/StaticTest.java">
+        <entry file="file://$PROJECT_DIR$/02/src/BinaryTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="336">
-              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/sggday14/src/com/hefeng/www/SingleTonTest1.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="464">
-              <caret line="27" column="5" lean-forward="true" selection-start-line="27" selection-start-column="5" selection-end-line="27" selection-end-column="5" />
-              <folding>
-                <element signature="e#284#285#0" expanded="true" />
-                <element signature="e#316#317#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="96">
+              <caret line="13" column="25" selection-end-line="25" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/sggday14/src/com/hefeng/www/singleTonTest2.java">
+        <entry file="file://$PROJECT_DIR$/03/src/AriExer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="576">
-              <caret line="24" column="10" selection-start-line="24" selection-start-column="10" selection-end-line="24" selection-end-column="10" />
+            <state relative-caret-position="360">
+              <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/03/src/variableTest1.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="181">
+              <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/03/src/AriTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1488">
+              <caret line="62" selection-start-line="62" selection-end-line="62" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/第三章.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="48">
+                <caret line="2" column="9" selection-start-line="2" selection-start-column="9" selection-end-line="2" selection-end-column="9" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/java核心技术.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="FIRST">
+              <first_editor relative-caret-position="348">
+                <caret line="74" column="46" selection-start-line="74" selection-start-column="46" selection-end-line="74" selection-end-column="46" />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -86,26 +153,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/day15_response/src/com/hefeng/web/servlet/ResponseDemo1.java" />
-        <option value="$PROJECT_DIR$/day15_response/src/com/hefeng/web/servlet/ResponseDemo2.java" />
-        <option value="$PROJECT_DIR$/day15_response/src/com/hefeng/web/servlet/ReponseDemo3.java" />
-        <option value="$PROJECT_DIR$/day15_response/src/com/hefeng/web/servlet/ResponseDemo3.java" />
-        <option value="$PROJECT_DIR$/day15_response/src/com/hefeng/web/servlet/ResponseDemo4.java" />
-        <option value="$PROJECT_DIR$/day15_response/src/com/hefeng/web/servlet/ResponseDemo5.java" />
-        <option value="$PROJECT_DIR$/day15_response/src/com/hefeng/web/servlet/CheckCodeServlet.java" />
-        <option value="$PROJECT_DIR$/day15_response/web/register.html" />
-        <option value="$PROJECT_DIR$/day15_response/src/com/hefeng/web/servletContext/ServletContext1.java" />
-        <option value="$PROJECT_DIR$/day15_response/src/com/hefeng/web/servletContext/ServletContext2.java" />
-        <option value="$PROJECT_DIR$/day15_response/src/com/hefeng/web/servletContext/ServletContext3.java" />
-        <option value="$PROJECT_DIR$/day15_response/src/com/hefeng/web/servletContext/ServletContext4.java" />
-        <option value="$PROJECT_DIR$/day15_response/src/com/hefeng/web/servletContext/ServletContext5.java" />
-        <option value="$PROJECT_DIR$/day15_response/src/com/hefeng/web/download/DownloadServlet.java" />
-        <option value="$PROJECT_DIR$/day15_response/web/download.html" />
-        <option value="$PROJECT_DIR$/day16_cookie&amp;session/src/com/hefeng/CookieDemo1.java" />
-        <option value="$PROJECT_DIR$/day16_cookie&amp;session/src/com/hefeng/cookie/CookieDemo2.java" />
-        <option value="$PROJECT_DIR$/day16_cookie&amp;session/src/com/hefeng/cookie/CookieDemo1.java" />
-        <option value="$PROJECT_DIR$/day16_cookie&amp;session/src/com/hefeng/cookie/CookieDemo3.java" />
-        <option value="$PROJECT_DIR$/day16_cookie&amp;session/src/com/hefeng/cookie/CookieDemo4.java" />
         <option value="$PROJECT_DIR$/day16_cookie&amp;session/src/com/hefeng/cookie/CookieDemo5.java" />
         <option value="$PROJECT_DIR$/day15/src/com/hefeng/cookie/CookieDemo.java" />
         <option value="$PROJECT_DIR$/day16_cookie&amp;session/src/com/hefeng/cookie/CookieTest.java" />
@@ -137,6 +184,26 @@
         <option value="$PROJECT_DIR$/sggday14/src/com/hefeng/www/StaticTest.java" />
         <option value="$PROJECT_DIR$/sggday14/src/com/hefeng/www/SingleTonTest1.java" />
         <option value="$PROJECT_DIR$/sggday14/src/com/hefeng/www/singleTonTest2.java" />
+        <option value="$PROJECT_DIR$/day8/src/com/hefeng/www/PersonTest.java" />
+        <option value="$PROJECT_DIR$/day8/src/com/hefeng/www/CustomerTest.java" />
+        <option value="$PROJECT_DIR$/day8/src/com/hefeng/exer/Exer3Test.java" />
+        <option value="$PROJECT_DIR$/day8/src/com/hefeng/exer/CircleTest.java" />
+        <option value="$PROJECT_DIR$/day8/src/com/hefeng/www/UserTest.java" />
+        <option value="$PROJECT_DIR$/day8/src/com/hefeng/www/Test.java" />
+        <option value="$PROJECT_DIR$/02/src/StringTest.java" />
+        <option value="$PROJECT_DIR$/02/src/VariableTest1.java" />
+        <option value="$PROJECT_DIR$/02/src/VariableTest2.java" />
+        <option value="$PROJECT_DIR$/02/src/VariableTest3.java" />
+        <option value="$PROJECT_DIR$/02/src/VariableTest4.java" />
+        <option value="$PROJECT_DIR$/02/src/BinaryTest.java" />
+        <option value="$PROJECT_DIR$/02/src/StringTest1.java" />
+        <option value="$PROJECT_DIR$/02/src/test.java" />
+        <option value="$PROJECT_DIR$/第一章 Java.md" />
+        <option value="$PROJECT_DIR$/03/src/AriExer.java" />
+        <option value="$PROJECT_DIR$/03/src/AriTest.java" />
+        <option value="$PROJECT_DIR$/第三章.md" />
+        <option value="$PROJECT_DIR$/03/src/variableTest1.java" />
+        <option value="$PROJECT_DIR$/java核心技术.md" />
       </list>
     </option>
   </component>
@@ -147,11 +214,11 @@
     <option name="FILTER_DEBUG" value="true" />
     <option name="CUSTOM_FILTER" />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-25" />
-    <option name="y" value="330" />
-    <option name="width" value="1940" />
-    <option name="height" value="1050" />
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="41" />
+    <option name="y" value="406" />
+    <option name="width" value="1938" />
+    <option name="height" value="1048" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -165,8 +232,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -177,52 +242,13 @@
             <path>
               <item name="java" type="b2602c69:ProjectViewProjectNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="sggday14" type="462c0819:PsiDirectoryNode" />
+              <item name="03" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="java" type="b2602c69:ProjectViewProjectNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="sggday14" type="462c0819:PsiDirectoryNode" />
+              <item name="03" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="sggday14" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="sggday14" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="hefeng" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="sggday14" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="hefeng" type="462c0819:PsiDirectoryNode" />
-              <item name="www" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="sggday14" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="hefeng" type="462c0819:PsiDirectoryNode" />
-              <item name="www" type="462c0819:PsiDirectoryNode" />
-              <item name="SingleTonTest1.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
-            </path>
-            <path>
-              <item name="java" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="tomcat_study" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="java" type="b2602c69:ProjectViewProjectNode" />
@@ -232,6 +258,8 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -279,78 +307,38 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.SingleTonTest1">
-    <configuration name="SingleTonTest1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.hefeng.www.SingleTonTest1" />
-      <module name="sggday14" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.hefeng.www.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+  <component name="RunManager" selected="Application.variableTest1">
+    <configuration name="AriExer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AriExer" />
+      <module name="03" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BeanUtilsTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="login_project" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.hefeng.test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.hefeng.test" />
-      <option name="MAIN_CLASS_NAME" value="com.hefeng.test.BeanUtilsTest" />
-      <option name="TEST_OBJECT" value="class" />
+    <configuration name="AriTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AriTest" />
+      <module name="03" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BeanUtilsTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="login_project" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.hefeng.test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.hefeng.test" />
-      <option name="MAIN_CLASS_NAME" value="com.hefeng.test.BeanUtilsTest" />
-      <option name="METHOD_NAME" value="test" />
-      <option name="TEST_OBJECT" value="method" />
+    <configuration name="BinaryTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BinaryTest" />
+      <module name="02" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UserDaoTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="login_project" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.hefeng.test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.hefeng.test" />
-      <option name="MAIN_CLASS_NAME" value="com.hefeng.test.UserDaoTest" />
-      <option name="TEST_OBJECT" value="class" />
+    <configuration name="StringTest1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StringTest1" />
+      <module name="02" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UserDaoTest.testLogin" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="login_project" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.hefeng.test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.hefeng.test" />
-      <option name="MAIN_CLASS_NAME" value="com.hefeng.test.UserDaoTest" />
-      <option name="METHOD_NAME" value="testLogin" />
-      <option name="TEST_OBJECT" value="method" />
+    <configuration name="variableTest1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="variableTest1" />
+      <module name="03" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -490,21 +478,21 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="JUnit.UserDaoTest" />
-      <item itemvalue="JUnit.UserDaoTest.testLogin" />
-      <item itemvalue="JUnit.BeanUtilsTest" />
-      <item itemvalue="JUnit.BeanUtilsTest.test" />
+      <item itemvalue="Application.BinaryTest" />
+      <item itemvalue="Application.StringTest1" />
+      <item itemvalue="Application.AriExer" />
+      <item itemvalue="Application.AriTest" />
       <item itemvalue="Tomcat Server.tomServer" />
       <item itemvalue="Tomcat Server.Tomcat 8.5.40" />
-      <item itemvalue="Application.SingleTonTest1" />
+      <item itemvalue="Application.variableTest1" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.SingleTonTest1" />
-        <item itemvalue="JUnit.BeanUtilsTest.test" />
-        <item itemvalue="JUnit.BeanUtilsTest" />
-        <item itemvalue="JUnit.UserDaoTest.testLogin" />
-        <item itemvalue="JUnit.UserDaoTest" />
+        <item itemvalue="Application.variableTest1" />
+        <item itemvalue="Application.AriTest" />
+        <item itemvalue="Application.AriExer" />
+        <item itemvalue="Application.StringTest1" />
+        <item itemvalue="Application.BinaryTest" />
       </list>
     </recent_temporary>
   </component>
@@ -524,6 +512,10 @@
       <workItem from="1555783155514" duration="25176000" />
       <workItem from="1555830630311" duration="32517000" />
       <workItem from="1555925186668" duration="23650000" />
+      <workItem from="1556067865938" duration="3303000" />
+      <workItem from="1556076033127" duration="6450000" />
+      <workItem from="1556181398187" duration="23843000" />
+      <workItem from="1556322244237" duration="1499000" />
     </task>
     <servers />
   </component>
@@ -560,7 +552,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="130881000" />
+    <option name="totallyTimeSpent" value="165976000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -572,20 +564,20 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.92899406" visible="true" weight="0.14477211" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.907919" visible="true" weight="0.13605899" />
       <window_info id="Structure" order="1" sideWeight="0.5021097" side_tool="true" weight="0.20844504" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
       <window_info id="Capture Tool" order="4" />
       <window_info id="UI Designer" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info id="Web" order="7" sideWeight="0.07100592" side_tool="true" visible="true" weight="0.14477211" />
+      <window_info id="Web" order="7" sideWeight="0.09208103" side_tool="true" weight="0.17091152" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.04249292" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49865952" visible="true" weight="0.04249292" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49865952" visible="true" weight="0.23087819" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.398017" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -600,7 +592,6 @@
       <window_info anchor="bottom" id="Version Control" order="14" weight="0.3286119" />
       <window_info anchor="bottom" id="Application Servers" order="15" weight="0.3286119" />
       <window_info anchor="bottom" id="Spring" order="16" />
-      <window_info anchor="right" id="Coverage" side_tool="true" weight="0.3297587" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -610,38 +601,44 @@
       <window_info anchor="right" id="Database" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info anchor="right" id="Coverage" order="9" side_tool="true" weight="0.3297587" />
     </layout>
     <layout-to-restore>
-      <window_info id="Designer" order="0" />
-      <window_info id="Image Layers" order="1" />
-      <window_info id="Capture Tool" order="2" />
-      <window_info id="UI Designer" order="3" />
-      <window_info id="Favorites" order="4" side_tool="true" />
-      <window_info id="Web" order="5" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="6" visible="true" weight="0.15204287" />
-      <window_info id="Structure" order="7" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="0" />
-      <window_info anchor="bottom" id="Docker" order="1" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Java Enterprise" order="3" />
-      <window_info anchor="bottom" id="Database Changes" order="4" />
-      <window_info anchor="bottom" id="Version Control" order="5" />
-      <window_info anchor="bottom" id="Message" order="6" />
-      <window_info anchor="bottom" id="Find" order="7" />
-      <window_info anchor="bottom" id="Run" order="8" />
-      <window_info anchor="bottom" id="Debug" order="9" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="10" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="11" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="12" />
-      <window_info anchor="right" id="Maven" order="0" />
-      <window_info anchor="right" id="Palette" order="1" />
-      <window_info anchor="right" id="Capture Analysis" order="2" />
-      <window_info anchor="right" id="Database" order="3" />
-      <window_info anchor="right" id="Palette&#9;" order="4" />
-      <window_info anchor="right" id="Theme Preview" order="5" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="6" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="7" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="8" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.907919" visible="true" weight="0.17091152" />
+      <window_info id="Structure" order="1" sideWeight="0.5021097" side_tool="true" weight="0.20844504" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Web" order="7" sideWeight="0.09208103" side_tool="true" visible="true" weight="0.17091152" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.04249292" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49865952" visible="true" weight="0.23087819" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.398017" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3286119" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.3286119" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5013405" side_tool="true" weight="0.1756374" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.3286119" />
+      <window_info anchor="bottom" id="Problems" order="11" weight="0.3286119" />
+      <window_info anchor="bottom" id="Java Enterprise" order="12" weight="0.3286119" />
+      <window_info anchor="bottom" id="Database Changes" order="13" />
+      <window_info anchor="bottom" id="Version Control" order="14" weight="0.3286119" />
+      <window_info anchor="bottom" id="Application Servers" order="15" weight="0.3286119" />
+      <window_info anchor="bottom" id="Spring" order="16" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info anchor="right" id="Coverage" order="9" side_tool="true" weight="0.3297587" />
     </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -674,6 +671,11 @@
           <properties />
           <option name="timeStamp" value="7" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" log-message="true" suspend="NONE" type="java-line">
+          <url>file://$PROJECT_DIR$/02/src/BinaryTest.java</url>
+          <properties />
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
@@ -683,211 +685,6 @@
     </SUITE>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/day16_cookie&amp;session/src/com/hefeng/cookie/CookieDemo3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-120">
-          <caret line="10" column="15" selection-start-line="10" selection-start-column="15" selection-end-line="10" selection-end-column="15" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day16_cookie&amp;session/src/com/hefeng/cookie/CookieDemo1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="393">
-          <caret line="17" column="27" selection-start-line="17" selection-start-column="27" selection-end-line="17" selection-end-column="27" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day16_cookie&amp;session/src/com/hefeng/cookie/CookieDemo2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="94">
-          <caret line="13" column="22" lean-forward="true" selection-start-line="13" selection-start-column="22" selection-end-line="13" selection-end-column="22" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day16_cookie&amp;session/src/com/hefeng/cookie/CookieDemo5.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="312">
-          <caret line="18" column="30" lean-forward="true" selection-start-line="18" selection-start-column="30" selection-end-line="18" selection-end-column="30" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day15/src/com/hefeng/cookie/CookieDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-168">
-          <caret line="2" column="7" lean-forward="true" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day16_cookie&amp;session/web/index.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="384">
-          <caret line="16" column="12" selection-start-line="16" selection-start-column="12" selection-end-line="16" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day16_cookie&amp;session/src/com/hefeng/cookie/CookieTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="11" column="43" lean-forward="true" selection-start-line="11" selection-start-column="43" selection-end-line="11" selection-end-column="43" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day16_cookie&amp;session/web/success.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day16_cookie&amp;session/src/com/hefeng/servlet/CheckCodeServlet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1056">
-          <caret line="53" column="76" selection-start-line="53" selection-start-column="76" selection-end-line="53" selection-end-column="76" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day16_cookie&amp;session/src/com/hefeng/servlet/LoginServlet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="552">
-          <caret line="27" column="41" selection-start-line="27" selection-start-column="41" selection-end-line="27" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day16_cookie&amp;session/src/com/hefeng/cookie/SessionDemo3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="6" column="46" selection-start-line="6" selection-start-column="46" selection-end-line="6" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day17_el&amp;jstl/web/top.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="24">
-          <caret line="1" column="14" selection-start-line="1" selection-start-column="14" selection-end-line="1" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day17_el&amp;jstl/web/500.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="10" column="25" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day17_el&amp;jstl/web/index.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="2" column="116" lean-forward="true" selection-start-line="2" selection-start-column="116" selection-end-line="2" selection-end-column="116" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day17_el&amp;jstl/web/home.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="224">
-          <caret line="12" column="36" lean-forward="true" selection-start-line="12" selection-start-column="36" selection-end-line="12" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day17_el&amp;jstl/web/el/el2.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="5" column="6" lean-forward="true" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day17_el&amp;jstl/web/el/el3.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="556">
-          <caret line="59" column="20" selection-start-line="59" selection-start-column="20" selection-end-line="59" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day17_el&amp;jstl/web/el/el1.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="388">
-          <caret line="27" column="16" selection-start-line="27" selection-start-column="16" selection-end-line="27" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day17_el&amp;jstl/web/el/el4.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="12" selection-start-line="12" selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day16_cookie&amp;session/web/login.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="9" column="44" lean-forward="true" selection-start-line="9" selection-start-column="44" selection-end-line="9" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day17_el&amp;jstl/web/jstl/jstl1.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="484">
-          <caret line="39" column="45" selection-start-line="39" selection-start-column="45" selection-end-line="39" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day17_el&amp;jstl/web/jstl/jstl2.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="364">
-          <caret line="26" column="28" selection-start-line="26" selection-start-column="28" selection-end-line="26" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day17_el&amp;jstl/web/jstl/jstl3.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="600">
-          <caret line="25" column="41" selection-start-line="25" selection-start-column="41" selection-end-line="25" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day17_el&amp;jstl/src/com/hefeng/domain/User.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="20" column="5" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#692#693#0" expanded="true" />
-            <element signature="e#764#765#0" expanded="true" />
-            <element signature="e#817#818#0" expanded="true" />
-            <element signature="e#882#883#0" expanded="true" />
-            <element signature="e#946#947#0" expanded="true" />
-            <element signature="e#1032#1033#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day17_el&amp;jstl/web/jstl/jstl_test.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="196">
-          <caret line="41" column="34" selection-start-line="41" selection-start-column="34" selection-end-line="41" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/day18_case/web/css/bootstrap.css">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -910,16 +707,7 @@
         <state relative-caret-position="-832" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/day18_case/src/com/hefeng/www/dao/impl/UserDaoImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="35" column="31" lean-forward="true" selection-start-line="35" selection-start-column="31" selection-end-line="35" selection-end-column="31" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/day18_case/src/com/hefeng/www/dao/impl/UserDaoImpl.java" />
     <entry file="file://$PROJECT_DIR$/day18_case/web/index.jsp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="336">
@@ -1136,17 +924,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/sggday14/src/StaticTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="16" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/sggday14/src/StaticTest.java" />
     <entry file="file://$PROJECT_DIR$/sggday14/src/com/hefeng/www/StaticTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="336">
-          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
         </state>
       </provider>
     </entry>
@@ -1157,14 +939,196 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/day15/src/com/hefeng/cookie/CookieDemo.java" />
     <entry file="file://$PROJECT_DIR$/sggday14/src/com/hefeng/www/SingleTonTest1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="464">
-          <caret line="27" column="5" lean-forward="true" selection-start-line="27" selection-start-column="5" selection-end-line="27" selection-end-column="5" />
+        <state relative-caret-position="536">
+          <caret line="27" column="5" selection-start-line="27" selection-start-column="5" selection-end-line="27" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day8/src/com/hefeng/www/OOPTest.java" />
+    <entry file="file://$PROJECT_DIR$/day8/src/com/hefeng/www/PersonTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="30" selection-start-line="30" selection-end-line="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day8/src/com/hefeng/www/CustomerTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="57" column="24" lean-forward="true" selection-start-line="57" selection-start-column="24" selection-end-line="57" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day8/src/com/hefeng/exer/Exer3Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="13" column="27" selection-start-line="13" selection-start-column="27" selection-end-line="13" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day8/src/com/hefeng/exer/CircleTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="14" column="24" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day8/src/com/hefeng/exer/PersonTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="2" column="23" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day8/src/com/hefeng/www/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="9" column="29" selection-start-line="9" selection-start-column="29" selection-end-line="9" selection-end-column="29" />
           <folding>
-            <element signature="e#284#285#0" expanded="true" />
-            <element signature="e#316#317#0" expanded="true" />
+            <element signature="e#1598#1599#0" expanded="true" />
+            <element signature="e#1649#1650#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day8/src/com/hefeng/www/UserTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="34" column="19" selection-start-line="34" selection-start-column="19" selection-end-line="34" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day8/src/com/hefeng/exer/Person.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="2" column="19" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02/src/VariableTest1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="301">
+          <caret line="44" selection-end-line="79" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02/src/VariableTest2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="62" lean-forward="true" selection-end-line="62" />
+          <folding>
+            <element signature="e#0#103#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02/src/VariableTest4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="61">
+          <caret line="12" column="21" lean-forward="true" selection-start-line="12" selection-start-column="21" selection-end-line="12" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02/src/VariableTest3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="373">
+          <caret line="21" column="21" lean-forward="true" selection-end-line="27" />
+          <folding>
+            <element signature="e#0#98#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第一章 Java.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="396">
+            <caret line="862" column="17" selection-start-line="862" selection-start-column="17" selection-end-line="862" selection-end-column="17" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02/src/test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="10" column="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02/src/StringTest1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="373">
+          <caret line="65" column="5" selection-end-line="67" />
+          <folding>
+            <element signature="e#0#393#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02/src/StringTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02/src/BinaryTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="13" column="25" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03/src/AriTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1488">
+          <caret line="62" selection-start-line="62" selection-end-line="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第三章.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="48">
+            <caret line="2" column="9" selection-start-line="2" selection-start-column="9" selection-end-line="2" selection-end-column="9" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03/src/AriExer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03/src/variableTest1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="181">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java核心技术.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="348">
+            <caret line="74" column="46" selection-start-line="74" selection-start-column="46" selection-end-line="74" selection-end-column="46" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
