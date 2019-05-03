@@ -6,61 +6,7 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f024c7b8-4ce5-4218-932b-06016662cd75" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/java23_redis_war_exploded.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/javaSenior09_war_exploded.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/javaSenior10_war_exploded.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/javaSenior10_war_exploded2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/javaSeniro11_war_exploded.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/lib.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/libs__4_.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java23_redis/java23_redis.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java23_redis/src/com/hefeng/dao/ProvinceDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java23_redis/src/com/hefeng/dao/ProvinceDaoImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java23_redis/src/com/hefeng/domain/Province.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java23_redis/src/com/hefeng/service/ProvinceService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java23_redis/src/com/hefeng/service/ProvinceServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java23_redis/src/com/hefeng/web/servlet/ProvinceServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java23_redis/src/com/util/JDBCUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java23_redis/src/druid.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java23_redis/src/jedis.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java23_redis/web/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java23_redis/web/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaSenior09/1.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaSenior09/2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaSenior09/dbcp.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaSenior09/hello.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaSenior09/javaSenior09.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaSenior09/src/com/hefeng/www/BufferedTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaSenior09/src/com/hefeng/www/FileInputOutputStreamTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaSenior09/src/com/hefeng/www/FileReaderWriterTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaSenior09/src/com/hefeng/www/InputStreamReaderTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaSenior09/src/com/hefeng/www/OtherStreamTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaSenior09/src/com/hefeng/www/PicTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaSenior09/web/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaSenior10/2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaSenior10/hello.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaSenior10/javaSenior10.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaSenior10/src/com/hefeng/java1/InetAddressTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaSenior10/src/com/hefeng/java1/TCPTest1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaSenior10/src/com/hefeng/java1/TCPTest2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaSenior10/src/com/hefeng/java1/TCPTest3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaSenior10/src/com/hefeng/java1/UDPTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaSenior10/src/com/hefeng/java1/URLTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaSenior10/src/com/hefeng/java1/URLTest1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaSenior10/src/com/hefeng/www/FileUtilTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaSenior10/src/com/hefeng/www/ObjectInputOutputStreamTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaSenior10/src/com/hefeng/www/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaSenior10/src/com/hefeng/www/RandomAccessFileTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaSenior10/web/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaSeniro11/javaSeniro11.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaSeniro11/src/com/hefeng/www/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaSeniro11/src/com/hefeng/www/ReflectionTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaSeniro11/web/WEB-INF/web.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java核心技术.md" beforeDir="false" afterPath="$PROJECT_DIR$/java核心技术.md" afterDir="false" />
-    </list>
+    <list default="true" id="f024c7b8-4ce5-4218-932b-06016662cd75" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -83,7 +29,7 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/java23_redis/src/com/hefeng/web/servlet/ProvinceServlet.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="76">
+            <state relative-caret-position="226">
               <caret line="34" column="33" selection-start-line="34" selection-start-column="33" selection-end-line="34" selection-end-column="33" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -208,6 +154,23 @@
     <option name="FILTER_DEBUG" value="true" />
     <option name="CUSTOM_FILTER" />
   </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="C:\java\maven_repository" />
+        <option name="mavenHome" value="C:/java/apache-maven-3.5.2" />
+        <option name="userSettingsFile" value="C:\Users\michaelhee\.m2\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="vmOptions" value="-DarchetypeCatalog=internal" />
+  </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="-10" />
     <option name="y" value="-10" />
@@ -276,33 +239,7 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
               <item name="hefeng" type="462c0819:PsiDirectoryNode" />
-              <item name="domain" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="java23_redis" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="hefeng" type="462c0819:PsiDirectoryNode" />
-              <item name="service" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="java23_redis" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="hefeng" type="462c0819:PsiDirectoryNode" />
               <item name="web" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="java23_redis" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="util" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="java" type="b2602c69:ProjectViewProjectNode" />
@@ -339,7 +276,7 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="restartRequiresConfirmation" value="false" />
-    <property name="settings.editor.selected.configurable" value="fileTemplates" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.runner" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -595,7 +532,7 @@
       <workItem from="1556765971523" duration="11658000" />
       <workItem from="1556783665939" duration="6558000" />
       <workItem from="1556810478187" duration="11825000" />
-      <workItem from="1556858519916" duration="9267000" />
+      <workItem from="1556858519916" duration="9834000" />
     </task>
     <servers />
   </component>
@@ -632,7 +569,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="210056000" />
+    <option name="totallyTimeSpent" value="210623000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -656,7 +593,7 @@
       <window_info id="Web" order="7" sideWeight="0.097165994" side_tool="true" weight="0.19544846" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.04249292" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49799198" visible="true" weight="0.41525424" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49799198" weight="0.41525424" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.398017" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -1181,7 +1118,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/java23_redis/src/com/hefeng/web/servlet/ProvinceServlet.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
+        <state relative-caret-position="226">
           <caret line="34" column="33" selection-start-line="34" selection-start-column="33" selection-end-line="34" selection-end-column="33" />
           <folding>
             <element signature="imports" expanded="true" />
