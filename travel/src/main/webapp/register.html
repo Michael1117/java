@@ -5,8 +5,94 @@
         <title>注册</title>
         <link rel="stylesheet" type="text/css" href="css/common.css">
         <link rel="stylesheet" href="css/register.css">
+
 		<!--导入jquery-->
 		<script src="js/jquery-3.3.1.js"></script>
+
+		<script>
+			/*
+			* 表单校验
+			* 	1. 用户名： 单词字符，长度8-20位
+			* 	2. 密码： 单词字符，长度8-20位
+			* 	3. email: 邮箱格式
+			* 	4. 姓名： 非空
+			* 	5. 手机号： 手机号格式
+			* 	6. 出生日期： 非空
+			* 	7. 验证码： 非空
+			*
+			* */
+			// 校验用户名
+			function checkUserName() {
+				//alert("校验用户名")
+				// 1. 获取用户名的值
+				var username = $("#username").val()
+				// 2. 定义正则
+				var reg_username = /^\w{8,20}$/;
+				// 3. 判断，给出提示信息
+				var flag = reg_username.test(username)
+				if(flag) {
+					// 用户名合法
+					$("#username").css("border", "1px solid green")
+				}else {
+					// 用户名非法
+					$("#username").css("border", "1px solid red")
+				}
+
+				return flag;
+			}
+
+			// 校验邮箱
+			function checkEmail() {
+				// 1. 获取邮箱
+				var email = $("#email").val();
+
+				var reg_email = /^\w+@\w+\.\w+$/;
+
+				var flag = reg_email.test(email);
+
+				if(flag) {
+					$("#email").css("border", "1px solid green")
+				}else {
+					$("#email").css("border", "1px solid red")
+				}
+				return flag;
+			}
+			// 校验密码
+			function checkPassword() {
+				var password = $("#password").val()
+				// 2. 定义正则
+				var reg_password = /^\w{8,20}$/;
+				// 3. 判断，给出提示信息
+				var flag = reg_password.test(password)
+				if(flag) {
+					// 用户名合法
+					$("#password").css("border", "1px solid green")
+				}else {
+					// 用户名非法
+					$("#password").css("border", "1px solid red")
+				}
+
+				return flag;
+			}
+			$(function () {
+				// 当表单提交时， 调用所有的校验方法
+				$("#registerForm").submit(function () {
+					// return checkUserName() && checkPassword() && checkEmail()
+					if(checkUserName() && checkPassword() && checkEmail()) {
+						// 如果校验成功， 发送数据
+						$.post("registUserServlet", $(this).serialize(), function (data) {
+							// 处理服务器响应的数据 data
+
+						});
+					}
+					return false;
+				})
+				// 当某一个组件失去焦点时，调用对应的校验方法
+				$("#username").blur(checkUserName);
+				$("#password").blur(checkPassword);
+				$("#email").blur(checkEmail);
+			})
+		</script>
     </head>
 	<body>
 	<!--引入头部-->
@@ -21,7 +107,7 @@
     			<div class="rg_form_center">
 					
 					<!--注册表单-->
-    				<form id="registerForm">
+    				<form id="registerForm" action="user">
 						<!--提交处理请求的标识符-->
 						<input type="hidden" name="action" value="register">
     					<table style="margin-top: 25px;">
@@ -38,7 +124,7 @@
     								<label for="password">密码</label>
     							</td>
     							<td class="td_right">
-    								<input type="text" id="password" name="password" placeholder="请输入密码">
+    								<input type="password" id="password" name="password" placeholder="请输入密码">
     							</td>
     						</tr>
     						<tr>
