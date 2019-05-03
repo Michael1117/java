@@ -1,6 +1,6 @@
-package com.hefeng;
+package com.hefeng.www;
 
-public class www {
+public class IAccountService {
     public static void main(String[] args) {
 
     }
