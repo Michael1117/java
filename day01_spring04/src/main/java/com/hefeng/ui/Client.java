@@ -15,8 +15,8 @@ public class Client {
      */
     public static void main(String[] args) {
         // 1. 获取核心容器对象
-        ApplicationContext ac = new ClassPathXmlApplicationContext("bean.xml");
-
+        //ApplicationContext ac = new ClassPathXmlApplicationContext("bean.xml");  // 多态
+        ClassPathXmlApplicationContext ac = new ClassPathXmlApplicationContext("bean.xml");
         // 2. 根据id获取Bean对象
         /*IAccountService as1 = (IAccountService) ac.getBean("accountService");
         IAccountService as2 = (IAccountService) ac.getBean("accountService");
@@ -26,5 +26,8 @@ public class Client {
 */
         IAccountService as = (IAccountService) ac.getBean("accountService");
         as.saveAccount();
+
+        // 手动关闭容器
+        ac.close();
     }
 }

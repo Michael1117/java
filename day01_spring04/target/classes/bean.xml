@@ -47,16 +47,23 @@
                 死亡： 容器销毁，对象消亡
                 总结： 单例对象的生命周期和容器相同
             多例对象
-                出生：
+                出生： 当我们使用对象时spring框架为我们创建
                 活着：
                 死亡：
                 总结：
 
     -->
 
-    <bean id="accountService"
+   <!-- <bean id="accountService"
           class="com.hefeng.service.impl.AccountServiceImpl"
           scope="singleton"
+          init-method="init"
+          destroy-method="destroy"
+    ></bean>-->
+
+    <bean id="accountService"
+          class="com.hefeng.service.impl.AccountServiceImpl"
+          scope="prototype"
           init-method="init"
           destroy-method="destroy"
     ></bean>
