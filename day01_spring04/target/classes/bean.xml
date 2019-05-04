@@ -21,7 +21,43 @@
     <bean id="accountService" factory-bean="instanceFactory" factory-method="getAccountService"></bean>
     -->
 
-    <!-- 第三种方式： 使用工厂中的静态方法创建对象 (使用某个类中的静态方法创建对象，并存入spring容器) -->
+    <!-- 第三种方式： 使用工厂中的静态方法创建对象 (使用某个类中的静态方法创建对象，并存入spring容器)
 
-    <bean id="accountService" class="com.hefeng.factory.StaticFactory" factory-method="getAccountService"></bean>
+        <bean id="accountService" class="com.hefeng.factory.StaticFactory" factory-method="getAccountService">
+
+        </bean>
+    -->
+    <!-- bean的作用范围调整
+            bean标签的scope属性：
+                作用： 用于指定bean的作用范围
+                取值： 常用的就是单例的和多例的
+                    singleton: 单例的(默认)
+                    prototype: 多例的
+                    request: 作用于web应用的请求范围
+                    session: 作用于web应用的会话范围
+                    global-session: 作用于集群环境的会话范围(全局会话范围) ，当不是集群环境时，就是session
+
+    <bean id="accountService" class="com.hefeng.service.impl.AccountServiceImpl" scope="prototype"></bean>
+    -->
+
+    <!-- bean的生命周期
+            单例对象
+                出生： 当容器创建时对象出生
+                活着： 只要容器还在，对象一直活着
+                死亡： 容器销毁，对象消亡
+                总结： 单例对象的生命周期和容器相同
+            多例对象
+                出生：
+                活着：
+                死亡：
+                总结：
+
+    -->
+
+    <bean id="accountService"
+          class="com.hefeng.service.impl.AccountServiceImpl"
+          scope="singleton"
+          init-method="init"
+          destroy-method="destroy"
+    ></bean>
 </beans>
