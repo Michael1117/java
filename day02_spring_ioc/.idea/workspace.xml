@@ -1,22 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e8e414ff-f4a9-403d-9b85-c34ebe398f4b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../day02_spring01/src/test/java/com/hefeng/test/AccountServiceTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hefeng/dao/IAccountDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hefeng/dao/impl/AccountDaoImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hefeng/domain/Account.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hefeng/service/IAccountService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hefeng/service/impl/AccountServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/bean.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/hefeng/test/AccountServiceTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day02_spring01/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../day02_spring01/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day02_spring01/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../day02_spring01/pom.xml" afterDir="false" />
-    </list>
+    <list default="true" id="e8e414ff-f4a9-403d-9b85-c34ebe398f4b" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -472,7 +457,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1556963388767</updated>
-      <workItem from="1556963390717" duration="4229000" />
+      <workItem from="1556963390717" duration="4481000" />
     </task>
     <servers />
   </component>
@@ -494,7 +479,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4229000" />
+    <option name="totallyTimeSpent" value="4481000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -504,7 +489,7 @@
       <window_info id="Capture Tool" />
       <window_info id="UI Designer" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.046246648" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21983914" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Spring" />
       <window_info anchor="bottom" id="Terminal" />
