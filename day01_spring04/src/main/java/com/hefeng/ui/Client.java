@@ -20,7 +20,8 @@ public class Client {
         // 2. 根据id获取Bean对象
         IAccountService as = (IAccountService) ac.getBean("accountService");
 
-        System.out.println(as);
+        //System.out.println(as);
+        as.saveAccount();
 
 
 
