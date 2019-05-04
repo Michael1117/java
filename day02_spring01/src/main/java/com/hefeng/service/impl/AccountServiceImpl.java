@@ -4,9 +4,12 @@ import com.hefeng.dao.IAccountDao;
 import com.hefeng.service.IAccountService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Qualifier;
+import org.springframework.context.annotation.Scope;
 import org.springframework.stereotype.Component;
 import org.springframework.stereotype.Service;
 
+import javax.annotation.PostConstruct;
+import javax.annotation.PreDestroy;
 import javax.annotation.Resource;
 import java.util.Date;
 
@@ -51,27 +54,36 @@ import java.util.Date;
  *                        value: 指定范围的取值。常用取值： singleton prototype
  *  和生命周期相关的
  *
+ *          PreDestory
+ *              作用： 用于指定销毁方法
+ *          PostConstruct
+ *              作用： 用于指定初始化方法
+ *
  * */
 
 //@Component(value = "accountService")
 @Service("accountService")
+//@Scope("prototype")
 public class AccountServiceImpl implements IAccountService {
     //  如果是经常变化的数据，并不适用于注入的方式
 
    /* @Autowired
     @Qualifier("accountDao1")*/
-   @Resource(name = "accountDao1")
+    @Resource(name = "accountDao1")
     private IAccountDao accountDao = null;
 
-    public AccountServiceImpl() {
-        System.out.println("对象创建了");
+    @PostConstruct
+    public void init() {
+        System.out.println("初始化方法执行了！");
+    }
+
+    @PreDestroy
+    public void destroy() {
+        System.out.println("销毁方法执行了！");
     }
 
     public void saveAccount() {
-
-        //System.out.println("service中的saveAccount方法执行了");
         accountDao.saveAccount();
-
     }
 
 }

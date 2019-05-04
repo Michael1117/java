@@ -16,18 +16,19 @@ public class Client {
      */
     public static void main(String[] args) {
         // 1. 获取核心容器对象
-        ApplicationContext ac = new ClassPathXmlApplicationContext("bean.xml");
-
+        //ApplicationContext ac = new ClassPathXmlApplicationContext("bean.xml");
+        ClassPathXmlApplicationContext ac = new ClassPathXmlApplicationContext("bean.xml");
         // 2. 根据id获取Bean对象
 
         IAccountService as = (IAccountService) ac.getBean("accountService");
-        //IAccountService as = (IAccountService) ac.getBean("accountServiceImpl");  // Component后不加(value)
+        //IAccountService as2 = (IAccountService) ac.getBean("accountService");  // Component后不加(value)
         //System.out.println(as);
 
         //IAccountDao adao = ac.getBean("accountDao", IAccountDao.class);
 
         //System.out.println(adao);
         as.saveAccount();
-
+        ac.close();
+        //System.out.println(as == as2);
     }
 }
