@@ -1,17 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="424eb9db-40f0-44c8-9cf1-f5d8d13fb1d7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hefeng/service/impl/AccountServiceImpl2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hefeng/service/impl/AccountServiceImpl3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/bean.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day01_spring04/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../day01_spring04/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day01_spring04/src/main/java/com/hefeng/ui/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/../day01_spring04/src/main/java/com/hefeng/ui/Client.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day01_spring04/src/main/resources/bean.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../day01_spring04/src/main/resources/bean.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day01_spring04/target/classes/bean.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../day01_spring04/target/classes/bean.xml" afterDir="false" />
-    </list>
+    <list default="true" id="424eb9db-40f0-44c8-9cf1-f5d8d13fb1d7" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -39,7 +29,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/com/hefeng/service/impl/AccountServiceImpl3.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="-136">
-              <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+              <caret line="20" selection-start-line="20" selection-end-line="20" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#369#370#0" expanded="true" />
@@ -61,7 +51,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/com/hefeng/ui/Client.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="192">
-              <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+              <caret line="23" selection-start-line="23" selection-end-line="23" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -263,16 +253,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1556946962205</updated>
-      <workItem from="1556946964153" duration="4704000" />
+      <workItem from="1556946964153" duration="4733000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4704000" />
+    <option name="totallyTimeSpent" value="4733000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Designer" />
       <window_info id="Image Layers" />
@@ -290,7 +279,7 @@
       <window_info anchor="bottom" id="Messages" weight="0.3286119" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3286119" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3286119" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -353,7 +342,7 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/com/hefeng/service/impl/AccountServiceImpl3.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-136">
-          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#369#370#0" expanded="true" />
@@ -373,7 +362,7 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/com/hefeng/ui/Client.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="192">
-          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
