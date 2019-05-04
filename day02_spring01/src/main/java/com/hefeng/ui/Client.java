@@ -1,5 +1,6 @@
 package com.hefeng.ui;
 
+import com.hefeng.dao.IAccountDao;
 import com.hefeng.service.IAccountService;
 
 import org.springframework.context.ApplicationContext;
@@ -19,16 +20,14 @@ public class Client {
 
         // 2. 根据id获取Bean对象
 
-        /*IAccountService as = (IAccountService) ac.getBean("accountService");
-        as.saveAccount();*/
+        IAccountService as = (IAccountService) ac.getBean("accountService");
+        //IAccountService as = (IAccountService) ac.getBean("accountServiceImpl");  // Component后不加(value)
+        System.out.println(as);
 
+        IAccountDao adao = ac.getBean("accountDao", IAccountDao.class);
 
-     /*   IAccountService as = (IAccountService) ac.getBean("accountService2");
-        as.saveAccount();*/
-
-
-        IAccountService as = (IAccountService) ac.getBean("accountService3");
-        as.saveAccount();
+        System.out.println(adao);
+        //as.saveAccount();
 
     }
 }
