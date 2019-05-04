@@ -22,12 +22,12 @@ public class Client {
 
         IAccountService as = (IAccountService) ac.getBean("accountService");
         //IAccountService as = (IAccountService) ac.getBean("accountServiceImpl");  // Component后不加(value)
-        System.out.println(as);
+        //System.out.println(as);
 
-        IAccountDao adao = ac.getBean("accountDao", IAccountDao.class);
+        //IAccountDao adao = ac.getBean("accountDao", IAccountDao.class);
 
-        System.out.println(adao);
-        //as.saveAccount();
+        //System.out.println(adao);
+        as.saveAccount();
 
     }
 }
