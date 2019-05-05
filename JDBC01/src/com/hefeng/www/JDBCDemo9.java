@@ -2,10 +2,7 @@ package com.hefeng.www;
 
 import com.hefeng.util.JDBCUtils;
 
-import java.sql.Connection;
-import java.sql.ResultSet;
-import java.sql.SQLException;
-import java.sql.Statement;
+import java.sql.*;
 import java.util.Scanner;
 
 /**
@@ -52,6 +49,7 @@ public class JDBCDemo9 {
         // 连接数据库判断是否登录成功
         Connection conn = null;
         Statement stmt = null;
+        //PreparedStatement pstmt = null;
         ResultSet rs = null;
         // 1. 获取连接
         try {
@@ -60,10 +58,12 @@ public class JDBCDemo9 {
             String sql = "select * from user where username= '" + username + "' and password = '" + password + "' ";
 
             // 3. 获取执行sql的对象
+
             stmt = conn.createStatement();
 
             // 4. 执行查询
-            rs = stmt.executeQuery(sql);
+            rs = stmt.executeQuery(sql);  // executeQuery(sql)  父类的有参数
+            //rs = pstmt.executeQuery();   // executeQuery() 子类的无参数
 
             // 5. 判断
             /*if(rs.next()) { // 如果有下一行，则返回true
@@ -76,6 +76,49 @@ public class JDBCDemo9 {
             e.printStackTrace();
         } finally {
             JDBCUtils.close(rs, stmt, conn);
+        }
+
+        return false;
+    }
+
+
+    public boolean login2(String username, String password) {
+        if (username == null || password == null) {
+            return false;
+        }
+        // 连接数据库判断是否登录成功
+        Connection conn = null;
+        //Statement stmt = null;
+        PreparedStatement pstmt = null;
+        ResultSet rs = null;
+        // 1. 获取连接
+        try {
+            conn = JDBCUtils.getConnection();
+            // 2. 定义sql
+            //String sql = "select * from user where username= '" + username + "' and password = '" + password + "' ";
+            String sql = "select * from user where username= ? and password = ? ";
+            // 3. 获取执行sql的对象
+            pstmt = conn.prepareStatement(sql);
+            //stmt = conn.createStatement();
+
+            // 给?赋值
+            pstmt.setString(1, username);
+            pstmt.setString(2, password);
+            // 4. 执行查询
+            //rs = stmt.executeQuery(sql);  // executeQuery(sql)  父类的有参数
+            rs = pstmt.executeQuery();   // executeQuery() 子类的无参数
+
+            // 5. 判断
+            /*if(rs.next()) { // 如果有下一行，则返回true
+                return true;
+            }else {
+                return false;
+            }*/
+            return rs.next(); // 如果有下一行，则返回true
+        } catch (SQLException e) {
+            e.printStackTrace();
+        } finally {
+            JDBCUtils.close(rs, pstmt, conn);
         }
 
         return false;

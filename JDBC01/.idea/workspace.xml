@@ -2,13 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0fabd384-dad3-4bb6-a0a6-dc07208aebd8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/hefeng/domain/Emp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/hefeng/util/JDBCUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/hefeng/www/JDBCDemo7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/hefeng/www/JDBCDemo8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/hefeng/www/JDBCDemo9.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/jdbc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/hefeng/www/JDBCDemo10.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/hefeng/www/JDBCDemo9.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/hefeng/www/JDBCDemo9.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/hefeng/www/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/hefeng/www/JDBCDemo1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/jdbc.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/jdbc.properties" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -22,78 +21,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/hefeng/domain/Emp.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1992">
-              <caret line="83" column="18" selection-start-line="83" selection-start-column="18" selection-end-line="83" selection-end-column="18" />
-              <folding>
-                <element signature="e#323#324#0" expanded="true" />
-                <element signature="e#348#349#0" expanded="true" />
-                <element signature="e#381#382#0" expanded="true" />
-                <element signature="e#409#410#0" expanded="true" />
-                <element signature="e#441#442#0" expanded="true" />
-                <element signature="e#469#470#0" expanded="true" />
-                <element signature="e#511#512#0" expanded="true" />
-                <element signature="e#545#546#0" expanded="true" />
-                <element signature="e#575#576#0" expanded="true" />
-                <element signature="e#604#605#0" expanded="true" />
-                <element signature="e#645#646#0" expanded="true" />
-                <element signature="e#681#682#0" expanded="true" />
-                <element signature="e#708#709#0" expanded="true" />
-                <element signature="e#734#735#0" expanded="true" />
-                <element signature="e#769#770#0" expanded="true" />
-                <element signature="e#799#800#0" expanded="true" />
-                <element signature="e#832#833#0" expanded="true" />
-                <element signature="e#863#864#0" expanded="true" />
-                <element signature="e#909#910#0" expanded="true" />
-                <element signature="e#949#950#0" expanded="true" />
-                <element signature="e#982#983#0" expanded="true" />
-                <element signature="e#1011#1012#0" expanded="true" />
-                <element signature="e#1055#1056#0" expanded="true" />
-                <element signature="e#1091#1092#0" expanded="true" />
-                <element signature="e#1123#1124#0" expanded="true" />
-                <element signature="e#1151#1152#0" expanded="true" />
-                <element signature="e#1193#1194#0" expanded="true" />
-                <element signature="e#1227#1228#0" expanded="true" />
-                <element signature="e#1258#1259#0" expanded="true" />
-                <element signature="e#1288#1289#0" expanded="true" />
-                <element signature="e#1331#1332#0" expanded="true" />
-                <element signature="e#1369#1370#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/hefeng/www/JDBCDemo8.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="432">
-              <caret line="18" column="5" lean-forward="true" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/hefeng/util/JDBCUtils.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="168">
-              <caret line="33" column="96" selection-start-line="33" selection-start-column="96" selection-end-line="33" selection-end-column="96" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/hefeng/www/JDBCDemo9.java">
+        <entry file="file://$PROJECT_DIR$/src/com/hefeng/www/JDBCDemo10.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-328">
-              <caret line="42" column="34" selection-start-line="42" selection-start-column="34" selection-end-line="42" selection-end-column="34" />
+            <state relative-caret-position="124">
+              <caret line="45" column="28" selection-start-line="45" selection-start-column="28" selection-end-line="45" selection-end-column="28" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -105,7 +37,7 @@
         <entry file="file://$PROJECT_DIR$/src/jdbc.properties">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="120">
-              <caret line="5" column="21" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
+              <caret line="5" column="22" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
             </state>
           </provider>
         </entry>
@@ -144,8 +76,9 @@
         <option value="$PROJECT_DIR$/src/com/hefeng/domain/Emp.java" />
         <option value="$PROJECT_DIR$/src/com/hefeng/www/JDBCDemo8.java" />
         <option value="$PROJECT_DIR$/src/com/hefeng/util/JDBCUtils.java" />
-        <option value="$PROJECT_DIR$/src/jdbc.properties" />
         <option value="$PROJECT_DIR$/src/com/hefeng/www/JDBCDemo9.java" />
+        <option value="$PROJECT_DIR$/src/jdbc.properties" />
+        <option value="$PROJECT_DIR$/src/com/hefeng/www/JDBCDemo10.java" />
       </list>
     </option>
   </component>
@@ -166,44 +99,6 @@
       <pane id="ProjectPane">
         <subPane>
           <expand>
-            <path>
-              <item name="JDBC01" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JDBC01" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JDBC01" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JDBC01" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JDBC01" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JDBC01" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JDBC01" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JDBC01" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="hefeng" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JDBC01" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JDBC01" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="hefeng" type="462c0819:PsiDirectoryNode" />
-              <item name="domain" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JDBC01" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JDBC01" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="hefeng" type="462c0819:PsiDirectoryNode" />
-              <item name="www" type="462c0819:PsiDirectoryNode" />
-            </path>
             <path>
               <item name="JDBC01" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
@@ -244,9 +139,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.JDBCDemo9">
-    <configuration name="JDBCDemo4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.hefeng.www.JDBCDemo4" />
+  <component name="RunManager" selected="Application.JDBCDemo10">
+    <configuration name="JDBCDemo10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.hefeng.www.JDBCDemo10" />
       <module name="JDBC01" />
       <extension name="coverage">
         <pattern>
@@ -311,19 +206,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.JDBCDemo4" />
       <item itemvalue="Application.JDBCDemo5" />
       <item itemvalue="Application.JDBCDemo7" />
       <item itemvalue="Application.JDBCDemo8" />
       <item itemvalue="Application.JDBCDemo9" />
+      <item itemvalue="Application.JDBCDemo10" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.JDBCDemo10" />
         <item itemvalue="Application.JDBCDemo9" />
         <item itemvalue="Application.JDBCDemo8" />
         <item itemvalue="Application.JDBCDemo7" />
         <item itemvalue="Application.JDBCDemo5" />
-        <item itemvalue="Application.JDBCDemo4" />
       </list>
     </recent_temporary>
   </component>
@@ -338,18 +233,17 @@
       <option name="presentableId" value="Default" />
       <updated>1556981411498</updated>
       <workItem from="1556981412938" duration="5751000" />
-      <workItem from="1557020324886" duration="10043000" />
+      <workItem from="1557020324886" duration="13146000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15794000" />
+    <option name="totallyTimeSpent" value="18897000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.049597856" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19906166" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -398,16 +292,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/hefeng/www/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="18" column="68" selection-start-line="18" selection-start-column="68" selection-end-line="18" selection-end-column="68" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -523,17 +407,37 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/jdbc.properties">
+    <entry file="file://$PROJECT_DIR$/src/com/hefeng/www/JDBCDemo9.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="5" column="21" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
+        <state relative-caret-position="240">
+          <caret line="31" column="32" lean-forward="true" selection-start-line="31" selection-start-column="32" selection-end-line="31" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/hefeng/www/JDBCDemo9.java">
+    <entry file="file://$PROJECT_DIR$/src/com/hefeng/www/JDBCDemo1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-328">
-          <caret line="42" column="34" selection-start-line="42" selection-start-column="34" selection-end-line="42" selection-end-column="34" />
+        <state relative-caret-position="28">
+          <caret line="18" column="68" selection-start-line="18" selection-start-column="68" selection-end-line="18" selection-end-column="68" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/jdbc.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="5" column="22" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/hefeng/www/JDBCDemo10.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="124">
+          <caret line="45" column="28" selection-start-line="45" selection-start-column="28" selection-end-line="45" selection-end-column="28" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
