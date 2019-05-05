@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9aae2b4e-9bfd-4f5b-bf95-8df85e88bcc6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/hefeng/datasource/domain/Emp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/hefeng/datasource/jdbctemplate/JdbcTemplateDemo2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDBC02.iml" beforeDir="false" afterPath="$PROJECT_DIR$/JDBC02.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/hefeng/datasource/jdbctemplate/JdbcTemplateDemo1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/hefeng/datasource/jdbctemplate/JdbcTemplateDemo1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/druid.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/druid.properties" afterDir="false" />
-    </list>
+    <list default="true" id="9aae2b4e-9bfd-4f5b-bf95-8df85e88bcc6" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -68,8 +61,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/hefeng/datasource/jdbctemplate/JdbcTemplateDemo2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="416">
-              <caret line="156" column="30" lean-forward="true" selection-start-line="156" selection-start-column="30" selection-end-line="156" selection-end-column="30" />
+            <state relative-caret-position="512">
+              <caret line="156" column="30" selection-start-line="156" selection-start-column="30" selection-end-line="156" selection-end-column="30" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -180,10 +173,7 @@
               <item name="JDBC02" type="b2602c69:ProjectViewProjectNode" />
               <item name="JDBC02" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="hefeng" type="462c0819:PsiDirectoryNode" />
-              <item name="datasource" type="462c0819:PsiDirectoryNode" />
-              <item name="jdbctemplate" type="462c0819:PsiDirectoryNode" />
+              <item name="libs" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -322,7 +312,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1557041111484</updated>
-      <workItem from="1557041113661" duration="9184000" />
+      <workItem from="1557041113661" duration="9850000" />
     </task>
     <servers />
   </component>
@@ -342,13 +332,15 @@
     <history-entry file="JdbcTemplateDemo2_test6 - 2019.05.05 at 18h 04m 12s.xml">
       <configuration name="JdbcTemplateDemo2.test6" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="JdbcTemplateDemo2_test7 - 2019.05.05 at 18h 12m 52s.xml">
+      <configuration name="JdbcTemplateDemo2.test7" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9184000" />
+    <option name="totallyTimeSpent" value="9850000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Designer" />
       <window_info id="Image Layers" />
@@ -356,7 +348,7 @@
       <window_info id="UI Designer" />
       <window_info id="Favorites" side_tool="true" />
       <window_info id="Web" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15214477" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.29490617" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Spring" />
       <window_info anchor="bottom" id="Terminal" />
@@ -518,8 +510,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/hefeng/datasource/jdbctemplate/JdbcTemplateDemo2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="416">
-          <caret line="156" column="30" lean-forward="true" selection-start-line="156" selection-start-column="30" selection-end-line="156" selection-end-column="30" />
+        <state relative-caret-position="512">
+          <caret line="156" column="30" selection-start-line="156" selection-start-column="30" selection-end-line="156" selection-end-column="30" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
