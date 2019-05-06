@@ -5,44 +5,40 @@ import java.sql.DriverManager;
 import java.sql.SQLException;
 import java.sql.Statement;
 
-/**
- * account表  修改记录
- */
-public class JDBCDemo3 {
+public class JdbcDemo3 {
     public static void main(String[] args) {
         Connection conn = null;
         Statement stmt = null;
 
         try {
-            // 1. 注册驱动
+            // 1. 导入驱动jar包
+            // 2.  注册驱动
             Class.forName("com.mysql.jdbc.Driver");
-            // 2. 获取连接对象
+            // 3. 获取数据库连接对象
             conn = DriverManager.getConnection("jdbc:mysql:///eesy", "root", "12345678");
 
-            // 3. 定义sql
-            String sql = "update account set money = 1500 where id = 3";
-            // 4. 获取执行sql对象
-
+            // 4. 定义sql语句
+            String sql = "update account set money=3500 where id=5";
+            // 5. 获取执行sql对象 Statement
             stmt = conn.createStatement();
 
-            // 5. 执行sql
+            // 6. 执行sql
             int count = stmt.executeUpdate(sql);
-
-            // 6. 处理结果
+            // 7. 处理结果
             System.out.println(count);
+
             if (count > 0) {
-                System.out.println("修改成功！");
-            }else {
+                System.out.println("修改成功");
+            } else {
                 System.out.println("修改失败");
             }
 
         } catch (ClassNotFoundException e) {
             e.printStackTrace();
-        }catch (SQLException e) {
+        } catch (SQLException e) {
             e.printStackTrace();
-        }finally {
-            // 7 .释放资源
-            if(stmt != null) {
+        } finally {
+            if (stmt != null) {
                 try {
                     stmt.close();
                 } catch (SQLException e) {
@@ -50,7 +46,7 @@ public class JDBCDemo3 {
                 }
             }
 
-            if(conn != null) {
+            if (conn != null) {
                 try {
                     conn.close();
                 } catch (SQLException e) {
