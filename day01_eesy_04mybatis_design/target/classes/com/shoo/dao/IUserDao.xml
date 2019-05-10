@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mapper namespace="com.shoo.dao.IUserDao">
+    <!--配置查询所有 dao中的方法名称-->
+    <select id="findAll" resultType="com.shoo.domain.User">
+        select * from user
+    </select>
+</mapper>

@@ -1,0 +1,14 @@
+jdbc:
+  driverClassName: com.mysql.jdbc.Driver
+  url:jdbc: mysql:///yun6
+  username: root
+  password: 12345678
+  user:
+    name: jack
+    age: 2
+    language:
+      - java
+      - php
+      - ios
+      - python
+      - scala
