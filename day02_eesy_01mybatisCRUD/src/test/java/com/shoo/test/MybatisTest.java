@@ -1,6 +1,7 @@
 package com.shoo.test;
 
 import com.shoo.dao.IUserDao;
+import com.shoo.domain.QueryVo;
 import com.shoo.domain.User;
 import org.apache.ibatis.io.Resources;
 import org.apache.ibatis.session.SqlSession;
@@ -74,7 +75,7 @@ public class MybatisTest {
     @Test
     public void testSave() {
         User user = new User();
-        user.setUsername("mybatis saveuser");
+        user.setUsername("mybatis last insertid");
         user.setAddress("广东省深圳市");
         user.setSex("男");
         user.setBirthday(new Date());
@@ -95,7 +96,9 @@ public class MybatisTest {
         sqlSession.close();
         in.close();*/
         // 5. 执行保存方法
+        System.out.println("保存操作之前：" + user);
         userDao.saveUser(user);
+        System.out.println("保存操作之后：" + user);
 
     }
 
@@ -157,5 +160,24 @@ public class MybatisTest {
         // 5. 执行查询一个方法
         int count = userDao.findTotal();
         System.out.println(count);
+    }
+
+    /**
+     * 测试使用QueryVo作为查询条件
+     */
+    @Test
+    public void testFindByVo() {
+        QueryVo vo = new QueryVo();
+
+        User user = new User();
+        user.setUsername("%王%");
+        vo.setUser(user);
+
+        // 5. 执行查询方法
+        List<User> users = userDao.findUserByVo(vo);
+
+        for (User u: users){
+            System.out.println(u);
+        }
     }
 }
