@@ -65,8 +65,8 @@ public class MybatisTest {
         }
 
         // 6. 释放资源
-        sqlSession.close();
-        in.close();
+        //sqlSession.close();
+        //in.close();
     }
 
     /**
@@ -75,10 +75,10 @@ public class MybatisTest {
     @Test
     public void testSave() {
         User user = new User();
-        user.setUsername("mybatis last insertid");
-        user.setAddress("广东省深圳市");
-        user.setSex("男");
-        user.setBirthday(new Date());
+        user.setUserName("modify User Property");
+        user.setUserAddress("广东省深圳市");
+        user.setUserSex("男");
+        user.setUserBirthday(new Date());
 
 
       /*  // 1. 读取配置文件，生成输入直接流
@@ -109,11 +109,11 @@ public class MybatisTest {
     @Test
     public void testUpdate() {
         User user = new User();
-        user.setId(49);
-        user.setUsername("mybatis updateuser");
-        user.setAddress("广东省深圳市");
-        user.setSex("女");
-        user.setBirthday(new Date());
+        user.setUserId(49);
+        user.setUserName("mybatis updateuser");
+        user.setUserAddress("广东省深圳市");
+        user.setUserSex("女");
+        user.setUserBirthday(new Date());
 
         // 5. 执行保存方法
         userDao.updateUser(user);
@@ -170,7 +170,7 @@ public class MybatisTest {
         QueryVo vo = new QueryVo();
 
         User user = new User();
-        user.setUsername("%王%");
+        user.setUserName("%王%");
         vo.setUser(user);
 
         // 5. 执行查询方法

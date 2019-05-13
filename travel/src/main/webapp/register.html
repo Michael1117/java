@@ -25,11 +25,11 @@
 			function checkUserName() {
 				//alert("校验用户名")
 				// 1. 获取用户名的值
-				var username = $("#username").val()
+				var username = $("#username").val();
 				// 2. 定义正则
 				var reg_username = /^\w{8,20}$/;
 				// 3. 判断，给出提示信息
-				var flag = reg_username.test(username)
+				var flag = reg_username.test(username);
 				if(flag) {
 					// 用户名合法
 					$("#username").css("border", "1px solid green")
@@ -59,11 +59,11 @@
 			}
 			// 校验密码
 			function checkPassword() {
-				var password = $("#password").val()
+				var password = $("#password").val();
 				// 2. 定义正则
 				var reg_password = /^\w{8,20}$/;
 				// 3. 判断，给出提示信息
-				var flag = reg_password.test(password)
+				var flag = reg_password.test(password);
 				if(flag) {
 					// 用户名合法
 					$("#password").css("border", "1px solid green")
@@ -81,7 +81,15 @@
 					if(checkUserName() && checkPassword() && checkEmail()) {
 						// 如果校验成功， 发送数据
 						$.post("registUserServlet", $(this).serialize(), function (data) {
-							// 处理服务器响应的数据 data
+							  // 处理服务器响应的数据 data
+							if(data.flag){
+								//注册成功，跳转成功页面
+								location.href="register_ok.html";
+							}else{
+								//注册失败,给errorMsg添加提示信息
+								$("#errorMsg").html(data.errorMsg);
+
+							}
 
 						});
 					}

@@ -49,7 +49,7 @@ public class RegistUserServlet extends HttpServlet {
         String json = mapper.writeValueAsString(info);
 
         // 将json数据写回客户端
-        response.setContentType("application/json;charset=uft-8");
+        response.setContentType("application/json;charset=utf-8");
         response.getWriter().write(json);
 
     }
