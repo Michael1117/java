@@ -80,7 +80,7 @@
 					// return checkUserName() && checkPassword() && checkEmail()
 					if(checkUserName() && checkPassword() && checkEmail()) {
 						// 如果校验成功， 发送数据
-						$.post("registUserServlet", $(this).serialize(), function (data) {
+						$.post("user/regist", $(this).serialize(), function (data) {
 							  // 处理服务器响应的数据 data
 							if(data.flag){
 								//注册成功，跳转成功页面
