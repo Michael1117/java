@@ -2,95 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f447817c-3dbf-421c-9b6b-89ee6bfa9ea6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/day09_war_exploded.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/day11_war_exploded.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/day12_war_exploded.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/day15_war_exploded.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/java12_war_exploded.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day09/day09.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day09/src/com/shoo/exer/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day09/src/com/shoo/java/ArrayUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day09/src/com/shoo/java/ArrayUtilTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day09/web/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day10/day10.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day10/src/com/shoo/exer/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day10/src/com/shoo/exer/PersonTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day10/src/com/shoo/exer1/TriAngle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day10/src/com/shoo/exer1/TriAngleTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day10/src/com/shoo/exer2/Boy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day10/src/com/shoo/exer2/BoyGirlTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day10/src/com/shoo/exer2/Girl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day10/src/com/shoo/exer3/Account.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day10/src/com/shoo/exer3/Customer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day10/src/com/shoo/exer3/CustomerTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day10/src/com/shoo/java/AnimalTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day10/src/com/shoo/java/Order.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day10/src/com/shoo/java/OrderTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day10/src/com/shoo/java/ValueTransferTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day10/src/com/shoo/java1/Customer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day10/src/com/shoo/java1/OrderTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day10/src/com/shoo/java1/PersonTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day10/src/com/shoo/java1/UserTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day10/src/com/shoo/java2/PackageImportTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day10/src/com/shoo/java2/java3/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day11/day11.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day11/src/com/shoo/java/Creature.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day11/src/com/shoo/java/ExtendsTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day11/src/com/shoo/java/Keys.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day11/src/com/shoo/java/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day11/src/com/shoo/java/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day11/web/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day12/day12.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day12/src/com/shoo/java/DebugTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day12/src/com/shoo/java/DebugTest1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day12/src/com/shoo/java1/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day12/src/com/shoo/java1/PersonTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day12/src/com/shoo/java1/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day12/src/com/shoo/java2/Order.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day12/src/com/shoo/java2/OrderTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day12/src/com/shoo/java3/InstanceTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day12/src/com/shoo/java3/OrderTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day12/src/com/shoo/java3/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day12/src/com/shoo/java3/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day12/src/com/shoo/java3/SuperTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day12/src/com/shoo/java4/InterviewTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day12/src/com/shoo/java5/AnimalTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day12/src/com/shoo/java5/Man.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day12/src/com/shoo/java5/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day12/src/com/shoo/java5/PersonTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day12/src/com/shoo/java5/Woman.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day12/web/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day15/day15.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day15/src/com/shoo/java/AbstractTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day15/src/com/shoo/java/PersonTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day15/web/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../javaOOP1/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../javaOOP1/src/com/shoo/exer/CircleTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../javaOOP1/src/com/shoo/exer/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../javaOOP1/src/com/shoo/exer/PersonTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../javaOOP1/src/com/shoo/exer/StudentTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../javaOOP1/src/com/shoo/exer/StudentTest1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../javaOOP1/src/com/shoo/java/CustomerTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../javaOOP1/src/com/shoo/java/OOPTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../javaOOP1/src/com/shoo/java/PersonTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../javaOOP1/src/com/shoo/java/UserTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../travel/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../travel/src/main/java/cn/itcast/travel/dao/CategoryDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../travel/src/main/java/cn/itcast/travel/dao/impl/CategoryDaoImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../travel/src/main/java/cn/itcast/travel/service/CategoryService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../travel/src/main/java/cn/itcast/travel/service/impl/CategoryServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../travel/src/main/java/cn/itcast/travel/web/servlet/BaseServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../travel/src/main/java/cn/itcast/travel/web/servlet/CategoryServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../travel/src/main/java/cn/itcast/travel/web/servlet/UserServlet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../travel/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../travel/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../travel/src/main/java/cn/itcast/travel/service/impl/UserServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../travel/src/main/java/cn/itcast/travel/service/impl/UserServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../travel/src/main/webapp/header.html" beforeDir="false" afterPath="$PROJECT_DIR$/../travel/src/main/webapp/header.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../travel/src/main/webapp/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/../travel/src/main/webapp/login.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../travel/src/main/webapp/register.html" beforeDir="false" afterPath="$PROJECT_DIR$/../travel/src/main/webapp/register.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../travel/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/../travel/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../travel/target/tomcat/logs/access_log.2019-05-13" beforeDir="false" afterPath="$PROJECT_DIR$/../travel/target/tomcat/logs/access_log.2019-05-13" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -107,16 +19,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/day15/src/com/shoo/java/AbstractTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-624">
+            <state relative-caret-position="456">
               <caret line="19" column="46" selection-start-line="19" selection-start-column="46" selection-end-line="19" selection-end-column="46" />
-              <folding>
-                <element signature="e#823#824#0" expanded="true" />
-                <element signature="e#840#841#0" expanded="true" />
-                <element signature="e#950#951#0" expanded="true" />
-                <element signature="e#973#974#0" expanded="true" />
-                <element signature="e#1091#1092#0" expanded="true" />
-                <element signature="e#1138#1139#0" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -215,8 +119,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -311,6 +213,8 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -322,6 +226,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="D:/renren-fast" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="restartRequiresConfirmation" value="false" />
@@ -427,6 +332,7 @@
       <workItem from="1557396364262" duration="4545000" />
       <workItem from="1557542967181" duration="16000" />
       <workItem from="1557821566611" duration="28358000" />
+      <workItem from="1558037205848" duration="179000" />
     </task>
     <servers />
   </component>
@@ -448,13 +354,12 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="32919000" />
+    <option name="totallyTimeSpent" value="33098000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18297587" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18565683" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -1026,16 +931,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/day15/src/com/shoo/java/AbstractTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-624">
+        <state relative-caret-position="456">
           <caret line="19" column="46" selection-start-line="19" selection-start-column="46" selection-end-line="19" selection-end-column="46" />
-          <folding>
-            <element signature="e#823#824#0" expanded="true" />
-            <element signature="e#840#841#0" expanded="true" />
-            <element signature="e#950#951#0" expanded="true" />
-            <element signature="e#973#974#0" expanded="true" />
-            <element signature="e#1091#1092#0" expanded="true" />
-            <element signature="e#1138#1139#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
