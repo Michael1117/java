@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<script type="text/javascript">
+
+    const p = new Promise(function (resolve, reject) {
+
+        setTimeout(function () {
+            const num = Math.random();
+
+            if (num > 0.5) {
+                resolve("成功！ num:" + num)
+            } else {
+                reject("失败 ！ num: " + num)
+            }
+        }, 1000)
+    });
+
+    p.then(function (msg) {
+        console.log(msg);
+    }).catch(function (msg) {
+        console.log(msg);
+    })
+</script>
+</body>
+</html>

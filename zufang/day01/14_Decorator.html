@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<script type="text/javascript">
+
+    @T
+    class User{
+        constructor(name, age = 20) {
+            this.name = name;
+            this.age = age;
+        }
+    }
+
+    function T(target) {
+        console.log(target);
+
+        target.country = "中国";
+    }
+
+    console.log(User.country);
+</script>
+</body>
+</html>

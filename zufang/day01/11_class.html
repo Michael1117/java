@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<script type="text/javascript">
+    class User{
+        constructor(name, age = 20) {
+            this.name = name;
+            this.age = age;
+        }
+
+        sayHello() {
+            return "hello"
+        }
+
+        static isAdult(age) {
+            if(age > 18) {
+                return "成年人"
+            }
+
+            return "未成年人"
+        }
+
+
+    }
+
+    class Zhangsan extends User{
+        constructor() {
+            super("张三", 30);
+            this.address = "上海";
+        }
+    }
+
+    let user = new User("张三")
+
+    console.log(user);
+    console.log(user.sayHello());
+
+    console.log(User.isAdult());
+
+    let zs = new Zhangsan();
+
+    console.log(zs.age);
+    console.log(zs.name);
+    console.log(zs.address);
+
+    console.log(Zhangsan.isAdult(18));
+</script>
+</body>
+</html>

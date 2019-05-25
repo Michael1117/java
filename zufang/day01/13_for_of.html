@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<script type="text/javascript">
+    function * hello() {
+        yield "hello";
+        yield "world";
+        yield "done"
+    }
+
+    let h = hello();
+
+    for (let obj of h) {
+        console.log(obj);
+    }
+
+</script>
+</body>
+</html>

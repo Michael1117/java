@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<script type="text/javascript">
+    const person = {
+        name: 'jack',
+        age: 21,
+        language: ['java','js','css']
+    }
+
+    /*function hello(person) {
+        console.log("hello," + person.name);
+    }*/
+
+    var hi = ({name}) => console.log("hello, " + name);
+    hi(person)
+</script>
+</body>
+</html>

@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<script type="text/javascript">
+    let person = {
+        name: "jack",
+        eat: function (food) {
+            console.log(this.name + "在吃" + food);
+        },
+        eat2: food => console.log(person.name + "在吃" + food),
+        eat3(food) {
+            console.log(this.name + "在吃" + food);
+        }
+
+    }
+
+    person.eat3("西兰花")
+</script>
+</body>
+</html>
